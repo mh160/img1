@@ -1,0 +1,427 @@
+﻿
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<meta name="viewport" content="width=1000">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<title>知音漫客，飒漫画，漫画世界，漫画show，神漫 - 国漫吧</title>
+<meta name="Keywords" content="知音漫客，飒漫画，漫画世界，漫画show，神漫">
+<meta name="Description" content="国漫吧致力于中国漫画的宣传推广，连载有知音漫客，飒漫画等杂志中的偷星九月天，斗罗大陆漫画，斗破苍穹漫画等国内大人气漫画作品，所有漫画均为高清彩色，是喜爱和支持国漫的漫迷的首选网站">    
+<link media="all" href="/css/index.css" type="text/css" rel="stylesheet"> 
+<link rel="Bookmark" href="favicon.ico">
+</head>
+<body class="channel_index">
+<script src="/scripts/public.js"></script>
+<script type="text/javascript">var baocuo_dir="";var G_moban="skin5_20110501";var web_dir="";var web_wurl="/";var web_stitle=""</script>
+	<div role="banner" class="header cf" id="toubuquyu">
+		<h1 class="top_logo"><a rel="home" title="国漫吧" href="/">国漫吧</a></h1>
+		<div class="top_search" id="J_search">
+<script src="/tx/autoc/global.v15.js" type=text/javascript></script>
+<script src="/tx/autoc/place_v2.v18.js" type=text/javascript></script>
+<link href="/tx/autoc/common.v1.css" type="text/css" rel="stylesheet">
+        	<form name="form2" id="form1" class="search_form" action="/book.do?doing=chaxun" method="post">
+            	<input name="mc" id="mc" onmousedown="mouse1();" class="inp_search" value='请输入漫画名或作者名' style="margin-top:0px;margin-top:0px\9;*margin-top:0px;_margin-top:0px;"/>
+                <input type="button" class="btn_search"  value="搜索" onclick="search2()"/>
+            </form>
+<script type=text/javascript> 
+		var pTs = new MP_SmartPlaceInput({
+			textfield:'mc',
+			places:[],
+			onselect:function(id,name,pname){}
+				});
+</script>
+			<div class="hot_search">
+				<em>热门：</em>
+				<a title="知音漫客" href="/look/747906/" target="_blank"><strong>知音漫客</strong></a> <a title="飒漫画全本" href="/look/747579/" target="_blank"><strong>飒漫画</strong></a> <a title="飒漫乐画" href="/look/749432/" target="_blank"><strong>飒漫乐画</strong></a> <a title="神漫" href="/look/747934/" target="_blank"><strong>神漫</strong></a> <a title="偷星九月天" href="/look/725709/" target="_blank">偷星九月天</a> <a href="/look/718694/" target="_blank">斗罗大陆漫画</a> <a title="斗破苍穹漫画" href="/look/720481/" target="_blank">斗破苍穹漫画</a>
+			</div>
+		</div> 
+		<div class="E_quick quick">
+			<span class="quick_action">
+				<a rel="nofollow" target="_self" href="/public/shortcut.jsp">保存到桌面</a>
+				<i class="divide">|</i>
+				<a rel="nofollow" href="javascript:void(0);" class="E_addfv">收藏</a>
+				<i class="divide">|</i>
+				<a rel="nofollow" href="javascript:window.open('/support/yijian.jsp','_blank','scrollbars=no,width=600,height=450,status=no,resizable=yes');void(0);">留言反馈</a>			
+			</span>
+			<span class="play_history">
+				<a class="h" rel="nofollow" href="javascript:void(0);">观看记录</a>
+				<i class="ico_arrow_down"></i>
+			</span>
+			<a href="/look/" target="_blank" rel="bookmark" class="btn_app_enter">漫画索引</a>
+			<div class="video_history none" id="J_video_record"></div>
+		</div>
+	</div>
+	<div class="nav_wrap">
+		<ul id="J_topbar" role="navigation sitemap" class="nav cf" data="nav_home">
+			<li><a class="nav_item nav_home" data="nav_home" title="首页" href="/">首页</a></li>
+			<li><a class="nav_item nav_local" data="nav_local" title="知音漫客" href="/zazhi/0w1p/">知音漫客</a></li>
+			<li><a class="nav_item nav_ja" data="nav_ja" title="飒漫画" href="/zazhi/1w1p/">飒漫画</a></li>
+			<li><a class="nav_item nav_movie" data="nav_movie" title="漫画世界" href="/zazhi/2w1p/">漫画世界</a></li>
+			<li><a class="nav_item nav_movie" data="nav_movie" title="漫画show" href="/zazhi/3w1p/">漫画show</a></li>
+			<li><a class="nav_item nav_movie" data="nav_movie" title="淘漫画" href="/zazhi/4w1p/">淘漫画</a></li>
+			<li><a class="nav_item nav_movie" data="nav_movie" title="神漫" href="/zazhi/5w1p/">神漫</a></li>
+			<li><a class="nav_item nav_ranklist" data="nav_ranklist" title="排行榜" href="/paihang/">排行榜</a></li>
+			<li><a class="nav_item nav_latest" data="nav_latest" title="最新漫画" href="/xingengxin/">最新漫画</a></li>
+			<li><a class="nav_item nav_latest" data="nav_latest" title="漫友推荐" href="/tuijian/">漫友推荐</a></li>
+		</ul>
+	</div>
+	<div class="bg_slide"></div>
+<div class="slide_wrap cf">
+	<div class="slide_main">
+		<ul id="J_slider" class="cf">
+			<li style="" data-desc="知音漫客298全本" data-title="知音漫客298全本">
+				<a title="知音漫客298全本" target="_blank" href="/look/747906/"><img alt="知音漫客298全本" src="http://pic.guoman8.com/images/slider/zymk_big.jpg?v=298"></a>
+			</li>
+			<li style="display:none;" data-desc="飒漫画全本" data-title="飒漫画全本">
+				<a title="飒漫画全本" target="_blank" href="/look/747579/"><img alt="飒漫画全本" _src="http://pic.guoman8.com/images/slider/smh_big.jpg?v=1391"></a>
+			</li>
+			<li style="display:none;" data-desc="神漫漫画大集合 每月更新" data-title="神漫">
+				<a title="神漫" target="_blank" href="/look/747934/"><img alt="神漫" _src="http://pic.guoman8.com/images/slider/sm_big.jpg?v=20"></a>
+			</li>
+			<li style="display:none;" data-desc="飒漫乐画全本" data-title="飒漫乐画全本">
+				<a title="飒漫乐画全本" target="_blank" href="/look/749432/"><img alt="飒漫乐画全本" _src="http://pic.guoman8.com/images/slider/smlh_big.jpg?v=491"></a>
+			</li>
+			<li style="display:none;" data-desc="斗罗大陆漫画已经更新啦" data-title="斗罗大陆漫画">
+				<a title="斗罗大陆漫画" target="_blank" href="/look/718694/"><img alt="斗罗大陆漫画" _src="http://pic.guoman8.com/images/slider/dldl_big.jpg"></a>
+			</li>
+			<li style="display:none;" data-desc="斗破苍穹漫画，热门小说改编" data-title="斗破苍穹漫画来啦！">
+				<a title="斗破苍穹漫画来啦！" target="_blank" href="/look/720481/"><img alt="斗破苍穹漫画来啦！" _src="http://pic.guoman8.com/images/slider/dpcq_big.jpg"></a>
+			</li>
+			<li style="display:none;" data-desc="莽荒纪漫画" data-title="莽荒纪漫画">
+				<a title="莽荒纪漫画" target="_blank" href="/look/762848/"><img alt="莽荒纪漫画" _src="http://pic.guoman8.com/images/slider/mhj_big.jpg"></a>
+			</li>
+			<li style="display:none;" data-desc="穿越西元3000后漫画最新火速更新" data-title="穿越西元3000后">
+				<a title="穿越西元3000后" target="_blank" href="/look/734520/"><img alt="穿越西元3000后" _src="http://pic.guoman8.com/images/slider/cyxy3000h_big.jpg"></a>
+			</li>	
+		</ul>  
+	</div>
+		<div id="J_sliderNav" class="slide_side">
+			<ul class="cf">
+				<li>
+					<a title="知音漫客298全本" class="cur" target="_blank" href="/look/747906/">
+					<img alt="知音漫客298全本 火速更新" src="http://pic.guoman8.com/images/slider/zymk_small.jpg"><i></i></a>
+				</li>
+				<li>
+					<a title="飒漫画全本" target="_blank" href="/look/747579/">
+					<img alt="飒漫画全本" src="http://pic.guoman8.com/images/slider/smh_small.jpg"><i></i></a>
+				</li>
+				<li>
+					<a title="神漫全本" target="_blank" href="/look/747934/">
+					<img alt="神漫漫画大集合 每月更新" src="http://pic.guoman8.com/images/slider/sm_small.jpg"><i></i></a>
+				</li>								
+				<li>
+					<a title="飒漫乐画全本" target="_blank" href="/look/749432/">
+					<img alt="飒漫乐画全本" src="http://pic.guoman8.com/images/slider/smlh_small.jpg"><i></i></a>
+				</li>				
+				<li>
+					<a title="斗罗大陆漫画" target="_blank" href="/look/718694/">
+					<img alt="斗罗大陆漫画" src="http://pic.guoman8.com/images/slider/dldl_small.jpg?v=1"><i></i></a>
+				</li>
+				<li>
+					<a title="斗破苍穹漫画" target="_blank" href="/look/720481/">
+					<img alt="斗破苍穹漫画" src="http://pic.guoman8.com/images/slider/dpcq_small.jpg"><i></i></a>
+				</li>
+				<li>
+					<a title="莽荒纪漫画" target="_blank" href="/look/762848/">
+					<img alt="莽荒纪漫画" src="http://pic.guoman8.com/images/slider/mhj_small.jpg"><i></i></a>
+				</li>
+				<li>
+					<a title="穿越西元3000后" target="_blank" href="/look/734520/">
+					<img alt="穿越西元3000后" src="http://pic.guoman8.com/images/slider/cyxy3000h_small.jpg"><i></i></a>
+				</li>	
+			</ul>
+		</div>
+		<div id="J_sliderInfo" class="slide_caption"><a href="/look/762848/" target="_blank"><span class="slide_title">知音漫客298</span><span class="slide_desc">知音漫客298全本 火速更新</span><i class="ico_play_xxl"></i></a></div>
+	</div>
+<div id="J_dockWrap" class="dock_wrap">
+		<a href="javascript:void(0);" title="向前" class="dock_prev"></a>
+		<div class="dock_main">
+			<ul class="cf">   
+				<li>
+					<a class="ship" title="知音漫客全本" target="_blank" href="/look/747906/">
+						<span class="ship_pic"><img alt="知音漫客全本" class="ship_img" src="/images/dock/zymkqb.gif"></span>
+						<span class="dock_tit">知音漫客全本</span>					</a>				</li>
+							<li>				
+					<a class="ship" title="飒漫画全本" target="_blank" href="/look/747579/">
+						<span class="ship_pic"><img alt="飒漫画全本" class="ship_img" src="/images/dock/smh.gif"></span>
+						<span class="dock_tit">飒漫画全本</span>					</a>				</li>
+							<li>				
+					<a class="ship" title="飒漫乐画" target="_blank" href="/look/749432/">
+						<span class="ship_pic"><img alt="飒漫乐画全本" class="ship_img" src="/images/dock/smlh.gif"></span>
+						<span class="dock_tit">飒漫乐画全本</span>					</a>				</li>
+							<li>
+					<a class="ship" title="漫画世界全本" target="_blank" href="/look/756431/">
+						<span class="ship_pic"><img alt="HELLO甜心" class="ship_img" src="/images/dock/mhsj.gif"></span>
+						<span class="dock_tit">漫画世界全本</span>					</a>				</li>												
+						   <li>				
+					<a class="ship" title="神漫全本" target="_blank" href="/look/747934/">
+						<span class="ship_pic"><img alt="神漫全本" class="ship_img" src="/images/dock/sm.gif"></span>
+						<span class="dock_tit">神漫全本</span>					</a>				</li>			
+							<li>				
+					<a class="ship" title="中国卡通全本" target="_blank" href="/look/757270/">
+						<span class="ship_pic"><img alt="中国卡通全本" class="ship_img" src="/images/dock/zgkt.gif"></span>
+						<span class="dock_tit">中国卡通全本</span>					</a>				</li>
+							<li>				
+					<a class="ship" title="淘漫画全本" target="_blank" href="/look/767868/">
+						<span class="ship_pic"><img alt="淘漫画全本" class="ship_img" src="/images/dock/tmh.gif"></span>
+						<span class="dock_tit">淘漫画全本</span>					</a>				</li>	
+							<li>				
+					<a class="ship" title="漫友全本" target="_blank" href="/look/766548/">
+						<span class="ship_pic"><img alt="漫友全本" class="ship_img" src="/images/dock/myy.gif"></span>
+						<span class="dock_tit">漫友全本</span>					</a>				</li>													
+							<li>				
+					<a class="ship" title="劲漫画" target="_blank" href="/zazhi/7w1p/">
+						<span class="ship_pic"><img alt="劲漫画" class="ship_img" src="/images/dock/jmh.gif"></span>
+						<span class="dock_tit">劲漫画</span>					</a>				</li>
+							<li>				
+					<a class="ship" title="偷星九月天" target="_blank" href="/look/725709/">
+						<span class="ship_pic"><img alt="偷星九月天" class="ship_img" src="/images/dock/txjyt.gif"></span>
+						<span class="dock_tit">偷星九月天</span>					</a>				</li>						
+							<li>
+					<a class="ship" title="斗罗大陆漫画" target="_blank" href="/look/718694/">
+						<span class="ship_pic"><img alt="斗罗大陆漫画" class="ship_img" src="/images/dock/dldl.gif"></span>
+						<span class="dock_tit">斗罗大陆漫画</span>					</a>				</li>
+							<li>
+					<a class="ship" title="斗破苍穹漫画" target="_blank" href="/look/720481/">
+						<span class="ship_pic"><img alt="斗破苍穹漫画" class="ship_img" src="/images/dock/dpcq.gif"></span>
+						<span class="dock_tit">斗破苍穹</span>					</a>				</li>
+							<li>
+					<a class="ship" title="神精榜" target="_blank" href="/look/735651/">
+						<span class="ship_pic"><img alt="神精榜" class="ship_img" src="/images/dock/sjb.gif"></span>
+						<span class="dock_tit">神精榜</span>					</a>				</li>
+							<li>
+					<a class="ship" title="星海镖师" target="_blank" href="/look/733568/">
+						<span class="ship_pic"><img alt="星海镖师" class="ship_img" src="/images/dock/xhbs.gif"></span>
+						<span class="dock_tit">星海镖师</span>					</a>				</li>
+							<li>
+					<a class="ship" title="浪漫传说" target="_blank" href="/look/734350/">
+						<span class="ship_pic"><img alt="浪漫传说" class="ship_img" src="/images/dock/lmcs.gif"></span>
+						<span class="dock_tit">浪漫传说</span>					</a>				</li>
+							<li>
+					<a class="ship" title="时间之外" target="_blank" href="/look/734366/">
+						<span class="ship_pic"><img alt="时间之外" class="ship_img" src="/images/dock/sjzw.gif"></span>
+						<span class="dock_tit">时间之外</span>					</a>				</li>
+							<li>
+					<a class="ship" title="九九八十一" target="_blank" href="/look/728208/">
+						<span class="ship_pic"><img alt="九九八十一" class="ship_img" src="/images/dock/jjbsy.gif"></span>
+						<span class="dock_tit">九九八十一</span>					</a>				</li>
+							<li>
+					<a class="ship" title="暴走邻家" target="_blank" href="/look/734038/">
+						<span class="ship_pic"><img alt="暴走邻家" class="ship_img" src="/images/dock/bzlj.gif"></span>
+						<span class="dock_tit">暴走邻家</span>					</a>				</li>
+							<li>
+					<a class="ship" title="班长大人" target="_blank" href="/look/735055/">
+						<span class="ship_pic"><img alt="班长大人" class="ship_img" src="/images/dock/bzdr.gif"></span>
+						<span class="dock_tit">班长大人</span>					</a>				</li>
+							<li>
+					<a class="ship" title="放课后少年" target="_blank" href="/look/734962/">
+						<span class="ship_pic"><img alt="放课后少年" class="ship_img" src="/images/dock/fkhsn.gif"></span>
+						<span class="dock_tit">放课后少年</span>					</a>				</li>
+							<li>
+					<a class="ship" title="天行轶事" target="_blank" href="/look/734397/">
+						<span class="ship_pic"><img alt="天行轶事" class="ship_img" src="/images/dock/txys.gif"></span>
+						<span class="dock_tit">天行轶事</span>					</a>				</li>
+							<li>
+					<a class="ship" title="御狐之绊" target="_blank" href="/look/733934/">
+						<span class="ship_pic"><img alt="御狐之绊" class="ship_img" src="/images/dock/yhzb.gif"></span>
+						<span class="dock_tit">御狐之绊</span>					</a>				</li>
+							<li>
+					<a class="ship" title="龙族" target="_blank" href="/look/727184/">
+						<span class="ship_pic"><img alt="龙族" class="ship_img" src="/images/dock/lz.gif"></span>
+						<span class="dock_tit">龙族</span>					</a>				</li>
+		  </ul>
+		</div>
+		<a href="javascript:void(0);" title="向后" class="dock_next"></a>
+	</div>	
+	<div class="tags_wrap">
+		<div class="tags tags_hot">
+			<em class="tags_tit tags_tit1">热门</em>
+			<span class="tags_cont">
+<a class="hotred" title="知音漫客298" href="/look/747906/" target="_blank">知音漫客298</a> <i class="divide">|</i>
+<a class="hotred" title="飒漫画139" href="/look/747579/" target="_blank">飒漫画139</a> <i class="divide">|</i>
+<a class="hotred" title="神漫20" href=/look/747934/ target="_blank">神漫20</a> <i class="divide">|</i>
+<a class="hotred" title="偷星九月天435" href="/look/725709/" target="_blank">偷星九月天435</a> <i class="divide">|</i>
+<a class="hotred" title="斗罗大陆漫画110" href="/look/718694/" target="_blank">斗罗大陆漫画110</a> <i class="divide">|</i>
+<a class="hotred" title="斗破苍穹漫画76" href="/look/720481/" target="_blank">斗破苍穹漫画76</a> <i class="divide">|</i>
+<a class="hotred" title="穿越西元3000后" href="/look/734520/" target="_blank">穿越西元3000后</a> <i class="divide">|</i>
+<a class="hotred" title="妃夕妍雪" href="/look/741093/" target="_blank">妃夕妍雪</a> <i class="divide">|</i>
+<a class="hotred" title="美型妖精大混战" href="/look/733569/" target="_blank">美型妖精大混战</a>
+ </span>
+		</div>
+		<div class="tags tags_stick">
+			<em class="tags_tit tags_tit3">连载</em>
+			<span class="tags_cont">
+<a title="勇者是女孩" href="/look/773152/" target="_blank">勇者是女孩</a> <i class="divide">|</i>
+<a title="哪吒传" href="/look/738691/" target="_blank">哪吒传</a> <i class="divide">|</i>
+<a title="月落紫华" href="/look/775724/" target="_blank">月落紫华</a> <i class="divide">|</i>
+<a title="林竹闯关西" href="/look/767298/" target="_blank">林竹闯关西</a> <i class="divide">|</i>
+<a title="小熊明星梦" href="/look/767361/" target="_blank">小熊明星梦</a> <i class="divide">|</i>
+<a title="兄妹八点档" href="/look/767365/" target="_blank">兄妹八点档</a> <i class="divide">|</i>
+<a title="依依" href="/look/767392/" target="_blank">依依</a> <i class="divide">|</i>
+<a title="游园惊梦" href="/look/767400/" target="_blank">游园惊梦</a> <i class="divide">|</i>
+<a title="我的超级老爸" href="/look/768012/" target="_blank">我的超级老爸</a> <i class="divide">|</i>
+<a title="冲刺流星" href="/look/768223/" target="_blank">冲刺流星</a> <i class="divide">|</i>
+<a title="夜魂" href="/look/769691/" target="_blank">夜魂</a> <i class="divide">|</i>
+<a title="我的路" href="/look/767349/" target="_blank">我的路</a> <i class="divide">|</i>
+ </span>
+		</div>
+		<div class="tags tags_series">
+			<em class="tags_tit tags_tit2">最新</em>
+			<div class="tags_cont">
+<a title="恶魔的钥匙" href="/look/776852/" target="_blank">恶魔的钥匙</a> <i class="divide">|</i>
+<a title="萌封神" href="/look/776827/" target="_blank">萌封神</a> <i class="divide">|</i>
+<a title="古校夜游神" href="/look/776764/" target="_blank">古校夜游神</a> <i class="divide">|</i>
+<a title="小鼠乒乒" href="/look/776791/" target="_blank">小鼠乒乒</a> <i class="divide">|</i>
+<a title="我是缤果" href="/look/776792/" target="_blank">我是缤果</a> <i class="divide">|</i>
+<a title="非常女生" href="/look/776793/" target="_blank">非常女生</a> <i class="divide">|</i>
+<a title="落叶哀蝉" href="/look/776715/" target="_blank">落叶哀蝉</a> <i class="divide">|</i>
+<a title="二货编辑部" href="/look/776692/" target="_blank">二货编辑部</a> <i class="divide">|</i>
+<a title="漫画世界名人故事之大富翁卷" href="/look/776696/" target="_blank">漫画世界名人故事之大富翁卷</a> <i class="divide">|</i>
+<a title="猜猜我是谁" href="/look/776676/" target="_blank">猜猜我是谁</a> <i class="divide">|</i>
+<a title="绝世好胎" href="/look/776677/" target="_blank">绝世好胎</a> <i class="divide">|</i>
+<a title="驱魔师" href="/look/776678/" target="_blank">驱魔师</a> <i class="divide">|</i>
+ </div>
+		</div>
+		<span class="tags_btm"></span>
+		<span class="tags_flip"></span>
+	</div>
+	<div class="row_wrap cf" role="main">
+		<div class="box hot_box">
+			<div class="box_hd">
+				<h2 class="box_title">热门推荐</h2>
+				<div class="box_hd_expand">
+					<span class="expand_main"></span>
+					<a rel="nofollow" class="expand_more" target="_blank" href="/tuijian/">更多<span class="char">&gt;&gt;</span></a>
+				</div>
+				<span class="box_hd_doll"></span>				
+			</div>
+			<div class="box_bd">
+				<div class="v_cont cf">
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="偷星九月天" target="_blank" href="/look/725709/"><img src="http://pic.guoman8.com/fengmian/725709.jpg" alt="偷星九月天"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="偷星九月天" target="_blank" rel="bookmark" href="/look/725709/">偷星九月天</a>
+						</dd>
+						<dd class="v_desc">漫客 周洪斌小松</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/725709/776790/" target="_blank" title="第435话 预告">第435话 预告</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="斗罗大陆" target="_blank" href="/look/718694/"><img src="http://pic.guoman8.com/fengmian/718694.jpg" alt="斗罗大陆"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="斗罗大陆" target="_blank" rel="bookmark" href="/look/718694/">斗罗大陆</a>
+						</dd>
+						<dd class="v_desc">漫客 穆逢春</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/718694/776495/" target="_blank" title="第110话 预告">第110话 预告</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="知音漫客" target="_blank" href="/look/747906/"><img src="http://pic.guoman8.com/fengmian/747906.jpg" alt="知音漫客"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="知音漫客" target="_blank" rel="bookmark" href="/look/747906/">知音漫客</a>
+						</dd>
+						<dd class="v_desc">漫客</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/747906/776868/" target="_blank" title="第299期 预告">第299期 预告</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="斗破苍穹" target="_blank" href="/look/720481/"><img src="http://pic.guoman8.com/fengmian/720481.jpg" alt="斗破苍穹"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="斗破苍穹" target="_blank" rel="bookmark" href="/look/720481/">斗破苍穹</a>
+						</dd>
+						<dd class="v_desc">漫客 任翔</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/720481/776824/" target="_blank" title="第76话 预告">第76话 预告</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="穿越西元3000后" target="_blank" href="/look/734520/"><img src="http://pic.guoman8.com/fengmian/734520.jpg" alt="穿越西元3000后"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="穿越西元3000后" target="_blank" rel="bookmark" href="/look/734520/">穿越西元3000后</a>
+						</dd>
+						<dd class="v_desc">小小作文 飒漫画</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/734520/776830/" target="_blank" title="第73话 预告">第73话 预告</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="星海镖师" target="_blank" href="/look/733568/"><img src="http://pic.guoman8.com/fengmian/733568.jpg" alt="星海镖师"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="星海镖师" target="_blank" rel="bookmark" href="/look/733568/">星海镖师</a>
+						</dd>
+						<dd class="v_desc">漫客 颜开</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/733568/776297/" target="_blank" title="第116话 碎骨之痛">第116话 碎骨之痛</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="九九八十一" target="_blank" href="/look/728208/"><img src="http://pic.guoman8.com/fengmian/728208.jpg" alt="九九八十一"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="九九八十一" target="_blank" rel="bookmark" href="/look/728208/">九九八十一</a>
+						</dd>
+						<dd class="v_desc">漫客 米二</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/728208/776494/" target="_blank" title="第56话 困惑和猜测">第56话 困惑和猜测</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="手机少年" target="_blank" href="/look/742599/"><img src="http://pic.guoman8.com/fengmian/742599.jpg" alt="手机少年"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="手机少年" target="_blank" rel="bookmark" href="/look/742599/">手机少年</a>
+						</dd>
+						<dd class="v_desc">暴雨  漫画世界</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/742599/776289/" target="_blank" title="第209话 神临篇（三十一）">第209话 神临篇（三十一）</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="龙族" target="_blank" href="/look/727184/"><img src="http://pic.guoman8.com/fengmian/727184.jpg" alt="龙族"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="龙族" target="_blank" rel="bookmark" href="/look/727184/">龙族</a>
+						</dd>
+						<dd class="v_desc">漫客 颜开</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/727184/776735/" target="_blank" title="第二部第32话 预告">第二部第32话 预告</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="兔子帮" target="_blank" href="/look/742615/"><img src="http://pic.guoman8.com/fengmian/742615.jpg" alt="兔子帮"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="兔子帮" target="_blank" rel="bookmark" href="/look/742615/">兔子帮</a>
+						</dd>
+						<dd class="v_desc">十九番 漫画世界</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/742615/776545/" target="_blank" title="第217话 火山岛">第217话 火山岛</a></span></dd>
+					</dl>	
+				</div>
+			</div>
+			<div class="box_fd"></div>
+		</div>
+	<div class="sbox rank_side" id="J_rankSide">
+		<div class="sbox_hd">
+			<span class="rank_dool"></span>
+			<div class="rank_tit">
+				<a href="javascript:void(0);" title="热门更新" rel="nofollow" class="cur"><span class="rank_tit1">热门更新</span></a>
+				<a href="javascript:void(0);" title="热播榜" rel="nofollow" class=""><span class="rank_tit2">热播榜</span></a>
+			</div>
+		</div>
+		<div class="sbox_bd">
+			<div class="rank_list">
+				<div class="rank_tabq"></div>	
+				<ul>
+						<li class="liq_1">
+							<span class="li_no">01 </span>
+							<font class="datered">[02-07] </font>
+							<a href="/look/763387/" target="_blank" class="J_GA li_name2" title="最强人格">最强人格</a> 
+							<a class="J_GA li_name2" href="/look/763387/776885/" target="_blank" title="最强人格33">第33话 武宗！</a>
+						 </li>
+						<li class="liq_2">
+							<span class="li_no">02 </span>
+							<font class="datered">[02-07] </font>
+							<a href="/look/763167/" target="_blank" class="J_GA li_name2" title="囚禁盛宴">囚禁盛宴</a> 
+							

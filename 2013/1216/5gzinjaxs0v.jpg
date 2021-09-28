@@ -1,0 +1,1242 @@
+﻿
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<meta name="viewport" content="width=1000">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<title>知音漫客，飒漫画，漫画世界，漫画show，神漫 - 国漫吧</title>
+<meta name="Keywords" content="知音漫客，飒漫画，漫画世界，漫画show，神漫">
+<meta name="Description" content="国漫吧致力于中国漫画的宣传推广，连载有知音漫客，飒漫画等杂志中的偷星九月天，斗罗大陆漫画，斗破苍穹漫画等国内大人气漫画作品，所有漫画均为高清彩色，是喜爱和支持国漫的漫迷的首选网站">    
+<link media="all" href="/css/index.css" type="text/css" rel="stylesheet"> 
+<link rel="Bookmark" href="favicon.ico">
+</head>
+<body class="channel_index">
+<script src="/scripts/public.js"></script>
+<script type="text/javascript">var baocuo_dir="";var G_moban="skin5_20110501";var web_dir="";var web_wurl="/";var web_stitle=""</script>
+	<div role="banner" class="header cf" id="toubuquyu">
+		<h1 class="top_logo"><a rel="home" title="国漫吧" href="/">国漫吧</a></h1>
+		<div class="top_search" id="J_search">
+<script src="/tx/autoc/global.v15.js" type=text/javascript></script>
+<script src="/tx/autoc/place_v2.v18.js" type=text/javascript></script>
+<link href="/tx/autoc/common.v1.css" type="text/css" rel="stylesheet">
+        	<form name="form2" id="form1" class="search_form" action="/book.do?doing=chaxun" method="post">
+            	<input name="mc" id="mc" onmousedown="mouse1();" class="inp_search" value='请输入漫画名或作者名' style="margin-top:0px;margin-top:0px\9;*margin-top:0px;_margin-top:0px;"/>
+                <input type="button" class="btn_search"  value="搜索" onclick="search2()"/>
+            </form>
+<script type=text/javascript> 
+		var pTs = new MP_SmartPlaceInput({
+			textfield:'mc',
+			places:[],
+			onselect:function(id,name,pname){}
+				});
+</script>
+			<div class="hot_search">
+				<em>热门：</em>
+				<a title="知音漫客" href="/look/747906/" target="_blank"><strong>知音漫客</strong></a> <a title="飒漫画全本" href="/look/747579/" target="_blank"><strong>飒漫画</strong></a> <a title="飒漫乐画" href="/look/749432/" target="_blank"><strong>飒漫乐画</strong></a> <a title="神漫" href="/look/747934/" target="_blank"><strong>神漫</strong></a> <a title="偷星九月天" href="/look/725709/" target="_blank">偷星九月天</a> <a href="/look/718694/" target="_blank">斗罗大陆漫画</a> <a title="斗破苍穹漫画" href="/look/720481/" target="_blank">斗破苍穹漫画</a>
+			</div>
+		</div> 
+		<div class="E_quick quick">
+			<span class="quick_action">
+				<a rel="nofollow" target="_self" href="/public/shortcut.jsp">保存到桌面</a>
+				<i class="divide">|</i>
+				<a rel="nofollow" href="javascript:void(0);" class="E_addfv">收藏</a>
+				<i class="divide">|</i>
+				<a rel="nofollow" href="javascript:window.open('/support/yijian.jsp','_blank','scrollbars=no,width=600,height=450,status=no,resizable=yes');void(0);">留言反馈</a>			
+			</span>
+			<span class="play_history">
+				<a class="h" rel="nofollow" href="javascript:void(0);">观看记录</a>
+				<i class="ico_arrow_down"></i>
+			</span>
+			<a href="/look/" target="_blank" rel="bookmark" class="btn_app_enter">漫画索引</a>
+			<div class="video_history none" id="J_video_record"></div>
+		</div>
+	</div>
+	<div class="nav_wrap">
+		<ul id="J_topbar" role="navigation sitemap" class="nav cf" data="nav_home">
+			<li><a class="nav_item nav_home" data="nav_home" title="首页" href="/">首页</a></li>
+			<li><a class="nav_item nav_local" data="nav_local" title="知音漫客" href="/zazhi/0w1p/">知音漫客</a></li>
+			<li><a class="nav_item nav_ja" data="nav_ja" title="飒漫画" href="/zazhi/1w1p/">飒漫画</a></li>
+			<li><a class="nav_item nav_movie" data="nav_movie" title="漫画世界" href="/zazhi/2w1p/">漫画世界</a></li>
+			<li><a class="nav_item nav_movie" data="nav_movie" title="漫画show" href="/zazhi/3w1p/">漫画show</a></li>
+			<li><a class="nav_item nav_movie" data="nav_movie" title="淘漫画" href="/zazhi/4w1p/">淘漫画</a></li>
+			<li><a class="nav_item nav_movie" data="nav_movie" title="神漫" href="/zazhi/5w1p/">神漫</a></li>
+			<li><a class="nav_item nav_ranklist" data="nav_ranklist" title="排行榜" href="/paihang/">排行榜</a></li>
+			<li><a class="nav_item nav_latest" data="nav_latest" title="最新漫画" href="/xingengxin/">最新漫画</a></li>
+			<li><a class="nav_item nav_latest" data="nav_latest" title="漫友推荐" href="/tuijian/">漫友推荐</a></li>
+		</ul>
+	</div>
+	<div class="bg_slide"></div>
+<div class="slide_wrap cf">
+	<div class="slide_main">
+		<ul id="J_slider" class="cf">
+			<li style="" data-desc="知音漫客292全本" data-title="知音漫客292全本">
+				<a title="知音漫客292全本" target="_blank" href="/look/747906/"><img alt="知音漫客292全本" src="http://pic.guoman8.com/images/slider/zymk_big.jpg?v=292"></a>
+			</li>
+			<li style="display:none;" data-desc="飒漫画全本" data-title="飒漫画全本">
+				<a title="飒漫画全本" target="_blank" href="/look/747579/"><img alt="飒漫画全本" _src="http://pic.guoman8.com/images/slider/smh_big.jpg?v=134"></a>
+			</li>
+			<li style="display:none;" data-desc="神漫漫画大集合 每月更新" data-title="神漫">
+				<a title="神漫" target="_blank" href="/look/747934/"><img alt="神漫" _src="http://pic.guoman8.com/images/slider/sm_big.jpg?v=17"></a>
+			</li>
+			<li style="display:none;" data-desc="飒漫乐画全本" data-title="飒漫乐画全本">
+				<a title="飒漫乐画全本" target="_blank" href="/look/749432/"><img alt="飒漫乐画全本" _src="http://pic.guoman8.com/images/slider/smlh_big.jpg?v=48"></a>
+			</li>
+			<li style="display:none;" data-desc="斗罗大陆漫画已经更新啦" data-title="斗罗大陆漫画">
+				<a title="斗罗大陆漫画" target="_blank" href="/look/718694/"><img alt="斗罗大陆漫画" _src="http://pic.guoman8.com/images/slider/dldl_big.jpg"></a>
+			</li>
+			<li style="display:none;" data-desc="斗破苍穹漫画，热门小说改编" data-title="斗破苍穹漫画来啦！">
+				<a title="斗破苍穹漫画来啦！" target="_blank" href="/look/720481/"><img alt="斗破苍穹漫画来啦！" _src="http://pic.guoman8.com/images/slider/dpcq_big.jpg"></a>
+			</li>
+			<li style="display:none;" data-desc="莽荒纪漫画" data-title="莽荒纪漫画">
+				<a title="莽荒纪漫画" target="_blank" href="/look/762848/"><img alt="莽荒纪漫画" _src="http://pic.guoman8.com/images/slider/mhj_big.jpg"></a>
+			</li>
+			<li style="display:none;" data-desc="穿越西元3000后漫画最新火速更新" data-title="穿越西元3000后">
+				<a title="穿越西元3000后" target="_blank" href="/look/734520/"><img alt="穿越西元3000后" _src="http://pic.guoman8.com/images/slider/cyxy3000h_big.jpg"></a>
+			</li>	
+		</ul>  
+	</div>
+		<div id="J_sliderNav" class="slide_side">
+			<ul class="cf">
+				<li>
+					<a title="知音漫客292全本" class="cur" target="_blank" href="/look/747906/">
+					<img alt="知音漫客292全本 火速更新" src="http://pic.guoman8.com/images/slider/zymk_small.jpg"><i></i></a>
+				</li>
+				<li>
+					<a title="飒漫画全本" target="_blank" href="/look/747579/">
+					<img alt="飒漫画全本" src="http://pic.guoman8.com/images/slider/smh_small.jpg"><i></i></a>
+				</li>
+				<li>
+					<a title="神漫全本" target="_blank" href="/look/747934/">
+					<img alt="神漫漫画大集合 每月更新" src="http://pic.guoman8.com/images/slider/sm_small.jpg"><i></i></a>
+				</li>								
+				<li>
+					<a title="飒漫乐画全本" target="_blank" href="/look/749432/">
+					<img alt="飒漫乐画全本" src="http://pic.guoman8.com/images/slider/smlh_small.jpg"><i></i></a>
+				</li>				
+				<li>
+					<a title="斗罗大陆漫画" target="_blank" href="/look/718694/">
+					<img alt="斗罗大陆漫画" src="http://pic.guoman8.com/images/slider/dldl_small.jpg?v=1"><i></i></a>
+				</li>
+				<li>
+					<a title="斗破苍穹漫画" target="_blank" href="/look/720481/">
+					<img alt="斗破苍穹漫画" src="http://pic.guoman8.com/images/slider/dpcq_small.jpg"><i></i></a>
+				</li>
+				<li>
+					<a title="莽荒纪漫画" target="_blank" href="/look/762848/">
+					<img alt="莽荒纪漫画" src="http://pic.guoman8.com/images/slider/mhj_small.jpg"><i></i></a>
+				</li>
+				<li>
+					<a title="穿越西元3000后" target="_blank" href="/look/734520/">
+					<img alt="穿越西元3000后" src="http://pic.guoman8.com/images/slider/cyxy3000h_small.jpg"><i></i></a>
+				</li>	
+			</ul>
+		</div>
+		<div id="J_sliderInfo" class="slide_caption"><a href="/look/762848/" target="_blank"><span class="slide_title">知音漫客291</span><span class="slide_desc">知音漫客291全本 火速更新</span><i class="ico_play_xxl"></i></a></div>
+	</div>
+<div id="J_dockWrap" class="dock_wrap">
+		<a href="javascript:void(0);" title="向前" class="dock_prev"></a>
+		<div class="dock_main">
+			<ul class="cf">   
+				<li>
+					<a class="ship" title="知音漫客全本" target="_blank" href="/look/747906/">
+						<span class="ship_pic"><img alt="知音漫客全本" class="ship_img" src="/images/dock/zymkqb.gif"></span>
+						<span class="dock_tit">知音漫客全本</span>					</a>				</li>
+							<li>				
+					<a class="ship" title="飒漫画全本" target="_blank" href="/look/747579/">
+						<span class="ship_pic"><img alt="飒漫画全本" class="ship_img" src="/images/dock/smh.gif"></span>
+						<span class="dock_tit">飒漫画全本</span>					</a>				</li>
+							<li>				
+					<a class="ship" title="飒漫乐画" target="_blank" href="/look/749432/">
+						<span class="ship_pic"><img alt="飒漫乐画全本" class="ship_img" src="/images/dock/smlh.gif"></span>
+						<span class="dock_tit">飒漫乐画全本</span>					</a>				</li>
+							<li>
+					<a class="ship" title="漫画世界全本" target="_blank" href="/look/756431/">
+						<span class="ship_pic"><img alt="HELLO甜心" class="ship_img" src="/images/dock/mhsj.gif"></span>
+						<span class="dock_tit">漫画世界全本</span>					</a>				</li>												
+						   <li>				
+					<a class="ship" title="神漫全本" target="_blank" href="/look/747934/">
+						<span class="ship_pic"><img alt="神漫全本" class="ship_img" src="/images/dock/sm.gif"></span>
+						<span class="dock_tit">神漫全本</span>					</a>				</li>			
+							<li>				
+					<a class="ship" title="中国卡通全本" target="_blank" href="/look/757270/">
+						<span class="ship_pic"><img alt="中国卡通全本" class="ship_img" src="/images/dock/zgkt.gif"></span>
+						<span class="dock_tit">中国卡通全本</span>					</a>				</li>
+							<li>				
+					<a class="ship" title="淘漫画全本" target="_blank" href="/look/767868/">
+						<span class="ship_pic"><img alt="淘漫画全本" class="ship_img" src="/images/dock/tmh.gif"></span>
+						<span class="dock_tit">淘漫画全本</span>					</a>				</li>	
+							<li>				
+					<a class="ship" title="漫友全本" target="_blank" href="/look/766548/">
+						<span class="ship_pic"><img alt="漫友全本" class="ship_img" src="/images/dock/myy.gif"></span>
+						<span class="dock_tit">漫友全本</span>					</a>				</li>													
+							<li>				
+					<a class="ship" title="劲漫画" target="_blank" href="/zazhi/7w1p/">
+						<span class="ship_pic"><img alt="劲漫画" class="ship_img" src="/images/dock/jmh.gif"></span>
+						<span class="dock_tit">劲漫画</span>					</a>				</li>
+							<li>				
+					<a class="ship" title="偷星九月天" target="_blank" href="/look/725709/">
+						<span class="ship_pic"><img alt="偷星九月天" class="ship_img" src="/images/dock/txjyt.gif"></span>
+						<span class="dock_tit">偷星九月天</span>					</a>				</li>						
+							<li>
+					<a class="ship" title="斗罗大陆漫画" target="_blank" href="/look/718694/">
+						<span class="ship_pic"><img alt="斗罗大陆漫画" class="ship_img" src="/images/dock/dldl.gif"></span>
+						<span class="dock_tit">斗罗大陆漫画</span>					</a>				</li>
+							<li>
+					<a class="ship" title="斗破苍穹漫画" target="_blank" href="/look/720481/">
+						<span class="ship_pic"><img alt="斗破苍穹漫画" class="ship_img" src="/images/dock/dpcq.gif"></span>
+						<span class="dock_tit">斗破苍穹</span>					</a>				</li>
+							<li>
+					<a class="ship" title="神精榜" target="_blank" href="/look/735651/">
+						<span class="ship_pic"><img alt="神精榜" class="ship_img" src="/images/dock/sjb.gif"></span>
+						<span class="dock_tit">神精榜</span>					</a>				</li>
+							<li>
+					<a class="ship" title="星海镖师" target="_blank" href="/look/733568/">
+						<span class="ship_pic"><img alt="星海镖师" class="ship_img" src="/images/dock/xhbs.gif"></span>
+						<span class="dock_tit">星海镖师</span>					</a>				</li>
+							<li>
+					<a class="ship" title="浪漫传说" target="_blank" href="/look/734350/">
+						<span class="ship_pic"><img alt="浪漫传说" class="ship_img" src="/images/dock/lmcs.gif"></span>
+						<span class="dock_tit">浪漫传说</span>					</a>				</li>
+							<li>
+					<a class="ship" title="时间之外" target="_blank" href="/look/734366/">
+						<span class="ship_pic"><img alt="时间之外" class="ship_img" src="/images/dock/sjzw.gif"></span>
+						<span class="dock_tit">时间之外</span>					</a>				</li>
+							<li>
+					<a class="ship" title="九九八十一" target="_blank" href="/look/728208/">
+						<span class="ship_pic"><img alt="九九八十一" class="ship_img" src="/images/dock/jjbsy.gif"></span>
+						<span class="dock_tit">九九八十一</span>					</a>				</li>
+							<li>
+					<a class="ship" title="暴走邻家" target="_blank" href="/look/734038/">
+						<span class="ship_pic"><img alt="暴走邻家" class="ship_img" src="/images/dock/bzlj.gif"></span>
+						<span class="dock_tit">暴走邻家</span>					</a>				</li>
+							<li>
+					<a class="ship" title="班长大人" target="_blank" href="/look/735055/">
+						<span class="ship_pic"><img alt="班长大人" class="ship_img" src="/images/dock/bzdr.gif"></span>
+						<span class="dock_tit">班长大人</span>					</a>				</li>
+							<li>
+					<a class="ship" title="放课后少年" target="_blank" href="/look/734962/">
+						<span class="ship_pic"><img alt="放课后少年" class="ship_img" src="/images/dock/fkhsn.gif"></span>
+						<span class="dock_tit">放课后少年</span>					</a>				</li>
+							<li>
+					<a class="ship" title="天行轶事" target="_blank" href="/look/734397/">
+						<span class="ship_pic"><img alt="天行轶事" class="ship_img" src="/images/dock/txys.gif"></span>
+						<span class="dock_tit">天行轶事</span>					</a>				</li>
+							<li>
+					<a class="ship" title="御狐之绊" target="_blank" href="/look/733934/">
+						<span class="ship_pic"><img alt="御狐之绊" class="ship_img" src="/images/dock/yhzb.gif"></span>
+						<span class="dock_tit">御狐之绊</span>					</a>				</li>
+							<li>
+					<a class="ship" title="龙族" target="_blank" href="/look/727184/">
+						<span class="ship_pic"><img alt="龙族" class="ship_img" src="/images/dock/lz.gif"></span>
+						<span class="dock_tit">龙族</span>					</a>				</li>
+		  </ul>
+		</div>
+		<a href="javascript:void(0);" title="向后" class="dock_next"></a>
+	</div>	
+	<div class="tags_wrap">
+		<div class="tags tags_hot">
+			<em class="tags_tit tags_tit1">热门</em>
+			<span class="tags_cont">
+<a class="hotred" title="知音漫客292" href="/look/747906/" target="_blank">知音漫客292</a> <i class="divide">|</i>
+<a class="hotred" title="飒漫画135" href="/look/747579/" target="_blank">飒漫画135</a> <i class="divide">|</i>
+<a class="hotred" title="神漫17" href=/look/747934/ target="_blank">神漫17</a> <i class="divide">|</i>
+<a class="hotred" title="偷星九月天427" href="/look/725709/" target="_blank">偷星九月天427</a> <i class="divide">|</i>
+<a class="hotred" title="斗罗大陆漫画107" href="/look/718694/" target="_blank">斗罗大陆漫画106</a> <i class="divide">|</i>
+<a class="hotred" title="斗破苍穹漫画71" href="/look/720481/" target="_blank">斗破苍穹漫画71</a> <i class="divide">|</i>
+<a class="hotred" title="穿越西元3000后" href="/look/734520/" target="_blank">穿越西元3000后</a> <i class="divide">|</i>
+<a class="hotred" title="妃夕妍雪" href="/look/741093/" target="_blank">妃夕妍雪</a> <i class="divide">|</i>
+<a class="hotred" title="美型妖精大混战" href="/look/733569/" target="_blank">美型妖精大混战</a>
+ </span>
+		</div>
+		<div class="tags tags_stick">
+			<em class="tags_tit tags_tit3">连载</em>
+			<span class="tags_cont">
+<a title="爆笑校园" href="/look/749861/" target="_blank">爆笑校园</a> <i class="divide">|</i>
+<a title="返魂少女" href="/look/735016/" target="_blank">返魂少女</a> <i class="divide">|</i>
+<a title="绝对灵盗" href="/look/757765/" target="_blank">绝对灵盗</a> <i class="divide">|</i>
+<a title="驱魔手表" href="/look/766385/" target="_blank">驱魔手表</a> <i class="divide">|</i>
+<a title="超智能乒乓" href="/look/748776/" target="_blank">超智能乒乓</a> <i class="divide">|</i>
+<a title="萌萌" href="/look/764078/" target="_blank">萌萌</a> <i class="divide">|</i>
+<a title="你好包包" href="/look/764949/" target="_blank">你好包包</a> <i class="divide">|</i>
+<a title="灵契少女" href="/look/775279/" target="_blank">灵契少女</a> <i class="divide">|</i>
+<a title="御林医官" href="/look/775280/" target="_blank">御林医官</a> <i class="divide">|</i>
+<a title="鸡排王子" href="/look/775281/" target="_blank">鸡排王子</a> <i class="divide">|</i>
+<a title="我的独角兽" href="/look/775282/" target="_blank">我的独角兽</a> <i class="divide">|</i>
+<a title="读心恶魔" href="/look/775283/" target="_blank">读心恶魔</a> <i class="divide">|</i>
+ </span>
+		</div>
+		<div class="tags tags_series">
+			<em class="tags_tit tags_tit2">最新</em>
+			<div class="tags_cont">
+<a title="花奠" href="/look/775315/" target="_blank">花奠</a> <i class="divide">|</i>
+<a title="灵契少女" href="/look/775279/" target="_blank">灵契少女</a> <i class="divide">|</i>
+<a title="御林医官" href="/look/775280/" target="_blank">御林医官</a> <i class="divide">|</i>
+<a title="鸡排王子" href="/look/775281/" target="_blank">鸡排王子</a> <i class="divide">|</i>
+<a title="我的独角兽" href="/look/775282/" target="_blank">我的独角兽</a> <i class="divide">|</i>
+<a title="读心恶魔" href="/look/775283/" target="_blank">读心恶魔</a> <i class="divide">|</i>
+<a title="刺客公主" href="/look/775171/" target="_blank">刺客公主</a> <i class="divide">|</i>
+<a title="魂之挽歌" href="/look/775172/" target="_blank">魂之挽歌</a> <i class="divide">|</i>
+<a title="骑士誓约" href="/look/775173/" target="_blank">骑士誓约</a> <i class="divide">|</i>
+<a title="重装机神" href="/look/775174/" target="_blank">重装机神</a> <i class="divide">|</i>
+<a title="全班皆魔" href="/look/775175/" target="_blank">全班皆魔</a> <i class="divide">|</i>
+<a title="幻医之勇气对决" href="/look/775190/" target="_blank">幻医之勇气对决</a> <i class="divide">|</i>
+ </div>
+		</div>
+		<span class="tags_btm"></span>
+		<span class="tags_flip"></span>
+	</div>
+	<div class="row_wrap cf" role="main">
+		<div class="box hot_box">
+			<div class="box_hd">
+				<h2 class="box_title">热门推荐</h2>
+				<div class="box_hd_expand">
+					<span class="expand_main"></span>
+					<a rel="nofollow" class="expand_more" target="_blank" href="/tuijian/">更多<span class="char">&gt;&gt;</span></a>
+				</div>
+				<span class="box_hd_doll"></span>				
+			</div>
+			<div class="box_bd">
+				<div class="v_cont cf">
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="偷星九月天" target="_blank" href="/look/725709/"><img src="http://pic.guoman8.com/fengmian/725709.jpg" alt="偷星九月天"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="偷星九月天" target="_blank" rel="bookmark" href="/look/725709/">偷星九月天</a>
+						</dd>
+						<dd class="v_desc">漫客 周洪斌小松</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/725709/775301/" target="_blank" title="第429话 预告">第429话 预告</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="斗罗大陆" target="_blank" href="/look/718694/"><img src="http://pic.guoman8.com/fengmian/718694.jpg" alt="斗罗大陆"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="斗罗大陆" target="_blank" rel="bookmark" href="/look/718694/">斗罗大陆</a>
+						</dd>
+						<dd class="v_desc">漫客 穆逢春</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/718694/775258/" target="_blank" title="第107话 预告">第107话 预告</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="知音漫客" target="_blank" href="/look/747906/"><img src="http://pic.guoman8.com/fengmian/747906.jpg" alt="知音漫客"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="知音漫客" target="_blank" rel="bookmark" href="/look/747906/">知音漫客</a>
+						</dd>
+						<dd class="v_desc">漫客</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/747906/775259/" target="_blank" title="第292期 预告">第292期 预告</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="斗破苍穹" target="_blank" href="/look/720481/"><img src="http://pic.guoman8.com/fengmian/720481.jpg" alt="斗破苍穹"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="斗破苍穹" target="_blank" rel="bookmark" href="/look/720481/">斗破苍穹</a>
+						</dd>
+						<dd class="v_desc">漫客 任翔</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/720481/775085/" target="_blank" title="第71话 决赛">第71话 决赛</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="穿越西元3000后" target="_blank" href="/look/734520/"><img src="http://pic.guoman8.com/fengmian/734520.jpg" alt="穿越西元3000后"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="穿越西元3000后" target="_blank" rel="bookmark" href="/look/734520/">穿越西元3000后</a>
+						</dd>
+						<dd class="v_desc">小小作文 飒漫画</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/734520/774656/" target="_blank" title="第69话 夜访者">第69话 夜访者</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="星海镖师" target="_blank" href="/look/733568/"><img src="http://pic.guoman8.com/fengmian/733568.jpg" alt="星海镖师"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="星海镖师" target="_blank" rel="bookmark" href="/look/733568/">星海镖师</a>
+						</dd>
+						<dd class="v_desc">漫客 颜开</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/733568/775101/" target="_blank" title="第114话 三大家族的反击">第114话 三大家族的反击</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="九九八十一" target="_blank" href="/look/728208/"><img src="http://pic.guoman8.com/fengmian/728208.jpg" alt="九九八十一"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="九九八十一" target="_blank" rel="bookmark" href="/look/728208/">九九八十一</a>
+						</dd>
+						<dd class="v_desc">漫客 米二</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/728208/775087/" target="_blank" title="第53话 哥哥和妹妹">第53话 哥哥和妹妹</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="手机少年" target="_blank" href="/look/742599/"><img src="http://pic.guoman8.com/fengmian/742599.jpg" alt="手机少年"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="手机少年" target="_blank" rel="bookmark" href="/look/742599/">手机少年</a>
+						</dd>
+						<dd class="v_desc">暴雨  漫画世界</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/742599/775262/" target="_blank" title="第207话 预告">第207话 预告</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="美型妖精大混战" target="_blank" href="/look/733569/"><img src="http://pic.guoman8.com/fengmian/733569.jpg" alt="美型妖精大混战"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="美型妖精大混战" target="_blank" rel="bookmark" href="/look/733569/">美型妖精大混战</a>
+						</dd>
+						<dd class="v_desc">大歪 飒漫画</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/733569/774663/" target="_blank" title="第133话 来龙去脉">第133话 来龙去脉</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="龙族" target="_blank" href="/look/727184/"><img src="http://pic.guoman8.com/fengmian/727184.jpg" alt="龙族"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="龙族" target="_blank" rel="bookmark" href="/look/727184/">龙族</a>
+						</dd>
+						<dd class="v_desc">漫客 颜开</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/727184/775248/" target="_blank" title="第二部第29话 预告">第二部第29话 预告</a></span></dd>
+					</dl>	
+				</div>
+			</div>
+			<div class="box_fd"></div>
+		</div>
+	<div class="sbox rank_side" id="J_rankSide">
+		<div class="sbox_hd">
+			<span class="rank_dool"></span>
+			<div class="rank_tit">
+				<a href="javascript:void(0);" title="热门更新" rel="nofollow" class="cur"><span class="rank_tit1">热门更新</span></a>
+				<a href="javascript:void(0);" title="热播榜" rel="nofollow" class=""><span class="rank_tit2">热播榜</span></a>
+			</div>
+		</div>
+		<div class="sbox_bd">
+			<div class="rank_list">
+				<div class="rank_tabq"></div>	
+				<ul>
+						<li class="liq_1">
+							<span class="li_no">01 </span>
+							<font class="datered">[12-16] </font>
+							<a href="/look/775315/" target="_blank" class="J_GA li_name2" title="花奠">花奠</a> 
+							<a class="J_GA li_name2" href="/look/775315/775320/" target="_blank" title="花奠4">第4话 记忆之矢车</a>
+						 </li>
+						<li class="liq_2">
+							<span class="li_no">02 </span>
+							<font class="datered">[12-16] </font>
+							<a href="/look/771915/" target="_blank" class="J_GA li_name2" title="相忘江湖">相忘江湖</a> 
+							<a class="J_GA li_name2" href="/look/771915/775322/" target="_blank" title="相忘江湖26">第26话 幽夜魂</a>
+						 </li>
+						<li class="liq_3">
+							<span class="li_no">03 </span>
+							<font class="datered">[12-16] </font>
+							<a href="/look/762072/" target="_blank" class="J_GA li_name2" title="浅迷至夏">浅迷至夏</a> 
+							<a class="J_GA li_name2" href="/look/762072/775314/" target="_blank" title="浅迷至夏9">第9话 新学校</a>
+						 </li>
+						<li class="liq_4">
+							<span class="li_no">04 </span>
+							<font class="datered">[12-16] </font>
+							<a href="/look/773520/" target="_blank" class="J_GA li_name2" title="雏蜂">雏蜂</a> 
+							<a class="J_GA li_name2" href="/look/773520/775313/" target="_blank" title="雏蜂80">第80话</a>
+						 </li>
+						<li class="liq_5">
+							<span class="li_no">05 </span>
+							<font class="datered">[12-16] </font>
+							<a href="/look/772441/" target="_blank" class="J_GA li_name2" title="这不是DOTA">这不是DOTA</a> 
+							<a class="J_GA li_name2" href="/look/772441/775310/" target="_blank" title="这不是DOTA64">第64话 难题</a>
+						 </li>
+						<li class="liq_6">
+							<span class="li_no">06 </span>
+							<font class="datered">[12-16] </font>
+							<a href="/look/769307/" target="_blank" class="J_GA li_name2" title="易命师">易命师</a> 
+							<a class="J_GA li_name2" href="/look/769307/775309/" target="_blank" title="易命师10">第10话 医</a>
+						 </li>
+						<li class="liq_7">
+							<span class="li_no">07 </span>
+							<font class="datered">[12-16] </font>
+							<a href="/look/770041/" target="_blank" class="J_GA li_name2" title="末世人间道">末世人间道</a> 
+							<a class="J_GA li_name2" href="/look/770041/775308/" target="_blank" title="末世人间道60">第60话</a>
+						 </li>
+						<li class="liq_8">
+							<span class="li_no">08 </span>
+							<font class="datered">[12-16] </font>
+							<a href="/look/769205/" target="_blank" class="J_GA li_name2" title="龙凤呈祥">龙凤呈祥</a> 
+							<a class="J_GA li_name2" href="/look/769205/775307/" target="_blank" title="龙凤呈祥29">第29话 琴曲</a>
+						 </li>
+						<li class="liq_9">
+							<span class="li_no">09 </span>
+							<font class="datered">[12-16] </font>
+							<a href="/look/747934/" target="_blank" class="J_GA li_name2" title="神漫">神漫</a> 
+							<a class="J_GA li_name2" href="/look/747934/775305/" target="_blank" title="神漫18">第18期 预告</a>
+						 </li>
+						<li class="liq_10">
+							<span class="li_no">10 </span>
+							<font class="datered">[12-16] </font>
+							<a href="/look/759825/" target="_blank" class="J_GA li_name2" title="尸兄">尸兄</a> 
+							<a class="J_GA li_name2" href="/look/759825/775306/" target="_blank" title="尸兄72">第72话</a>
+						 </li>
+						<li class="liq_11">
+							<span class="li_no">11 </span>
+							<font class="datered">[12-16] </font>
+							<a href="/look/763167/" target="_blank" class="J_GA li_name2" title="囚禁盛宴">囚禁盛宴</a> 
+							<a class="J_GA li_name2" href="/look/763167/775304/" target="_blank" title="囚禁盛宴65">第65话</a>
+						 </li>
+				</ul>
+			</div>
+			<div class="rank_list rank_review none">	
+				<ul>
+						<li class="li_1 on"> 
+							<span class="li_no">Top01</span>
+							<a href="/look/725709/" target="_blank" rel="bookmark" class="J_GA li_name" title="偷星九月天">偷星九月天</a>
+							<a href="/look/725709/" target="_blank" title="偷星九月天" class="J_GA li_pic"><img src="http://pic.guoman8.com/fengmian/725709.jpg" alt="偷星九月天"></a>
+							<span class="li_latest"><a class="C3" href="/look/725709/775301/" target="_blank" title="第429话 预告">第429话 预告</a></span>
+							<span class="rank"><em class="num"><b>90</b>分</em></span>
+						 </li>
+						<li class="li_2 "> 
+							<span class="li_no">02</span>
+							<a href="/look/718694/" target="_blank" rel="bookmark" class="J_GA li_name" title="斗罗大陆">斗罗大陆</a>
+							<a href="/look/718694/" target="_blank" title="斗罗大陆" class="J_GA li_pic"><img src="http://pic.guoman8.com/fengmian/718694.jpg" alt="斗罗大陆"></a>
+							<span class="li_latest"><a class="C3" href="/look/718694/775258/" target="_blank" title="第107话 预告">第107话 预告</a></span>
+							<span class="rank"><em class="num"><b>91</b>分</em></span>
+						 </li>
+						<li class="li_3 "> 
+							<span class="li_no">03</span>
+							<a href="/look/747906/" target="_blank" rel="bookmark" class="J_GA li_name" title="知音漫客">知音漫客</a>
+							<a href="/look/747906/" target="_blank" title="知音漫客" class="J_GA li_pic"><img src="http://pic.guoman8.com/fengmian/747906.jpg" alt="知音漫客"></a>
+							<span class="li_latest"><a class="C3" href="/look/747906/775259/" target="_blank" title="第292期 预告">第292期 预告</a></span>
+							<span class="rank"><em class="num"><b>91</b>分</em></span>
+						 </li>
+						<li class="li_4 "> 
+							<span class="li_no">04</span>
+							<a href="/look/720481/" target="_blank" rel="bookmark" class="J_GA li_name" title="斗破苍穹">斗破苍穹</a>
+							<a href="/look/720481/" target="_blank" title="斗破苍穹" class="J_GA li_pic"><img src="http://pic.guoman8.com/fengmian/720481.jpg" alt="斗破苍穹"></a>
+							<span class="li_latest"><a class="C3" href="/look/720481/775085/" target="_blank" title="第71话 决赛">第71话 决赛</a></span>
+							<span class="rank"><em class="num"><b>83</b>分</em></span>
+						 </li>
+						<li class="li_5 "> 
+							<span class="li_no">05</span>
+							<a href="/look/734520/" target="_blank" rel="bookmark" class="J_GA li_name" title="穿越西元3000后">穿越西元3000后</a>
+							<a href="/look/734520/" target="_blank" title="穿越西元3000后" class="J_GA li_pic"><img src="http://pic.guoman8.com/fengmian/734520.jpg" alt="穿越西元3000后"></a>
+							<span class="li_latest"><a class="C3" href="/look/734520/774656/" target="_blank" title="第69话 夜访者">第69话 夜访者</a></span>
+							<span class="rank"><em class="num"><b>95</b>分</em></span>
+						 </li>
+						<li class="li_6 "> 
+							<span class="li_no">06</span>
+							<a href="/look/733568/" target="_blank" rel="bookmark" class="J_GA li_name" title="星海镖师">星海镖师</a>
+							<a href="/look/733568/" target="_blank" title="星海镖师" class="J_GA li_pic"><img src="http://pic.guoman8.com/fengmian/733568.jpg" alt="星海镖师"></a>
+							<span class="li_latest"><a class="C3" href="/look/733568/775101/" target="_blank" title="第114话 三大家族的反击">第114话 三大家族的反击</a></span>
+							<span class="rank"><em class="num"><b>91</b>分</em></span>
+						 </li>
+						<li class="li_7 "> 
+							<span class="li_no">07</span>
+							<a href="/look/728208/" target="_blank" rel="bookmark" class="J_GA li_name" title="九九八十一">九九八十一</a>
+							<a href="/look/728208/" target="_blank" title="九九八十一" class="J_GA li_pic"><img src="http://pic.guoman8.com/fengmian/728208.jpg" alt="九九八十一"></a>
+							<span class="li_latest"><a class="C3" href="/look/728208/775087/" target="_blank" title="第53话 哥哥和妹妹">第53话 哥哥和妹妹</a></span>
+							<span class="rank"><em class="num"><b>92</b>分</em></span>
+						 </li>
+						<li class="li_8 "> 
+							<span class="li_no">08</span>
+							<a href="/look/742599/" target="_blank" rel="bookmark" class="J_GA li_name" title="手机少年">手机少年</a>
+							<a href="/look/742599/" target="_blank" title="手机少年" class="J_GA li_pic"><img src="http://pic.guoman8.com/fengmian/742599.jpg" alt="手机少年"></a>
+							<span class="li_latest"><a class="C3" href="/look/742599/775262/" target="_blank" title="第207话 预告">第207话 预告</a></span>
+							<span class="rank"><em class="num"><b>94</b>分</em></span>
+						 </li>
+						<li class="li_9 "> 
+							<span class="li_no">09</span>
+							<a href="/look/733569/" target="_blank" rel="bookmark" class="J_GA li_name" title="美型妖精大混战">美型妖精大混战</a>
+							<a href="/look/733569/" target="_blank" title="美型妖精大混战" class="J_GA li_pic"><img src="http://pic.guoman8.com/fengmian/733569.jpg" alt="美型妖精大混战"></a>
+							<span class="li_latest"><a class="C3" href="/look/733569/774663/" target="_blank" title="第133话 来龙去脉">第133话 来龙去脉</a></span>
+							<span class="rank"><em class="num"><b>95</b>分</em></span>
+						 </li>
+						<li class="li_10 "> 
+							<span class="li_no">10</span>
+							<a href="/look/727184/" target="_blank" rel="bookmark" class="J_GA li_name" title="龙族">龙族</a>
+							<a href="/look/727184/" target="_blank" title="龙族" class="J_GA li_pic"><img src="http://pic.guoman8.com/fengmian/727184.jpg" alt="龙族"></a>
+							<span class="li_latest"><a class="C3" href="/look/727184/775248/" target="_blank" title="第二部第29话 预告">第二部第29话 预告</a></span>
+							<span class="rank"><em class="num"><b>91</b>分</em></span>
+						 </li>
+				</ul>
+			</div>
+		</div>
+		<div class="sbox_fd"></div>
+	</div>
+</div>
+<div role="directory" class="indexing">
+	<strong class="indexing_title">漫画检索</strong>
+	<div class="indexing_option">
+		<span class="indexing_cate">
+			<em class="indexing_tit">类型：</em>
+			<a title="全部" href="/look/">全部</a> 
+			 <i class="divide">|</i>  <a href="/leibie/1w1p/" title="热血">少年热血</a>  <i class="divide">|</i>  <a href="/leibie/2w1p/" title="格斗">武侠格斗</a>  <i class="divide">|</i>  <a href="/leibie/3w1p/" title="爱情">少女爱情</a>  <i class="divide">|</i>  <a href="/leibie/4w1p/" title="科幻">科幻魔幻</a>  <i class="divide">|</i>  <a href="/leibie/5w1p/" title="竞技">竞技体育</a>  <i class="divide">|</i>  <a href="/leibie/6w1p/" title="搞笑">爆笑喜剧</a>  <i class="divide">|</i>  <a href="/leibie/7w1p/" title="推理">侦探推理</a>  <i class="divide">|</i>  <a href="/leibie/8w1p/" title="恐怖">恐怖灵异</a>  <i class="divide">|</i>  <a href="/leibie/9w1p/" title="耽美">耽美人生</a>  <i class="divide">|</i>  <a href="/leibie/10w1p/" title="战争">战争灾难</a> 		
+		</span>
+	</div>
+	<div class="index_alphabet">
+		<em class="indexing_tit">字母：</em>
+		<a title="全部" class="letter2 J_GA" href="/look/">全部</a>
+		<a href="/zimu/aw1p/" class="letter">A</a> <a href="/zimu/bw1p/" class="letter">B</a> <a href="/zimu/cw1p/" class="letter">C</a> <a href="/zimu/dw1p/" class="letter">D</a> <a href="/zimu/ew1p/" class="letter">E</a> <a href="/zimu/fw1p/" class="letter">F</a> <a href="/zimu/gw1p/" class="letter">G</a> <a href="/zimu/hw1p/" class="letter">H</a> <a href="/zimu/iw1p/" class="letter">I</a> <a href="/zimu/jw1p/" class="letter">J</a> <a href="/zimu/kw1p/" class="letter">K</a> <a href="/zimu/lw1p/" class="letter">L</a> <a href="/zimu/mw1p/" class="letter">M</a> <a href="/zimu/nw1p/" class="letter">N</a> <a href="/zimu/ow1p/" class="letter">O</a> <a href="/zimu/pw1p/" class="letter">P</a> <a href="/zimu/qw1p/" class="letter">Q</a> <a href="/zimu/rw1p/" class="letter">R</a> <a href="/zimu/sw1p/" class="letter">S</a> <a href="/zimu/tw1p/" class="letter">T</a> <a href="/zimu/uw1p/" class="letter">U</a> <a href="/zimu/vw1p/" class="letter">V</a> <a href="/zimu/ww1p/" class="letter">W</a> <a href="/zimu/xw1p/" class="letter">X</a> <a href="/zimu/yw1p/" class="letter">Y</a> <a href="/zimu/zw1p/" class="letter">Z</a> <a href="/zimu/numw1p/" class="letter">数</a> 	
+	</div>
+</div>
+<div class="row_wrap cf" role="main">
+	<div class="box japan_box">
+		<div class="box_hd">
+			<h2 class="box_title">知音漫客</h2>
+			<div class="box_hd_expand">
+				<span class="expand_main"></span>
+				<a class="expand_more" target="_blank" href="/zazhi/0w1p/">更多<span class="char">&gt;&gt;</span></a>
+			</div>
+			<span class="box_hd_doll"></span>
+		</div>
+		<div class="box_bd">
+			<div class="v_cont cf">
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="相忘江湖" target="_blank" href="/look/771915/"><img src="http://pic.guoman8.com/fengmian/771915.jpg" alt="相忘江湖"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="相忘江湖" target="_blank" rel="bookmark" href="/look/771915/">相忘江湖</a>
+						</dd>
+						<dd class="v_desc">箫影雪 漫客</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/771915/775322/" target="_blank" title="第26话 幽夜魂">第26话 幽夜魂</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="知音漫客" target="_blank" href="/look/747906/"><img src="http://pic.guoman8.com/fengmian/747906.jpg" alt="知音漫客"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="知音漫客" target="_blank" rel="bookmark" href="/look/747906/">知音漫客</a>
+						</dd>
+						<dd class="v_desc">漫客</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/747906/775259/" target="_blank" title="第292期 预告">第292期 预告</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="哑舍" target="_blank" href="/look/753416/"><img src="http://pic.guoman8.com/fengmian/753416.jpg" alt="哑舍"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="哑舍" target="_blank" rel="bookmark" href="/look/753416/">哑舍</a>
+						</dd>
+						<dd class="v_desc">晓泊 漫客</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/753416/775303/" target="_blank" title="第18话 预告">第18话 预告</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="月影法则" target="_blank" href="/look/751649/"><img src="http://pic.guoman8.com/fengmian/751649.jpg" alt="月影法则"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="月影法则" target="_blank" rel="bookmark" href="/look/751649/">月影法则</a>
+						</dd>
+						<dd class="v_desc">魔王S  漫客</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/751649/775302/" target="_blank" title="第21话 预告">第21话 预告</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="偷星九月天" target="_blank" href="/look/725709/"><img src="http://pic.guoman8.com/fengmian/725709.jpg" alt="偷星九月天"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="偷星九月天" target="_blank" rel="bookmark" href="/look/725709/">偷星九月天</a>
+						</dd>
+						<dd class="v_desc">漫客 周洪斌小松</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/725709/775301/" target="_blank" title="第429话 预告">第429话 预告</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="返魂少女" target="_blank" href="/look/735016/"><img src="http://pic.guoman8.com/fengmian/735016.jpg" alt="返魂少女"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="返魂少女" target="_blank" rel="bookmark" href="/look/735016/">返魂少女</a>
+						</dd>
+						<dd class="v_desc">漫客 Kface</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/735016/775295/" target="_blank" title="第23话 预告">第23话 预告</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="极度分裂" target="_blank" href="/look/738931/"><img src="http://pic.guoman8.com/fengmian/738931.jpg" alt="极度分裂"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="极度分裂" target="_blank" rel="bookmark" href="/look/738931/">极度分裂</a>
+						</dd>
+						<dd class="v_desc">Dr.大吉 漫客</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/738931/775278/" target="_blank" title="第24话 预告">第24话 预告</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="薄荷之夏" target="_blank" href="/look/750678/"><img src="http://pic.guoman8.com/fengmian/750678.jpg" alt="薄荷之夏"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="薄荷之夏" target="_blank" rel="bookmark" href="/look/750678/">薄荷之夏</a>
+						</dd>
+						<dd class="v_desc">火禾 漫客</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/750678/775277/" target="_blank" title="第13话 预告">第13话 预告</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="雀灵神域" target="_blank" href="/look/761119/"><img src="http://pic.guoman8.com/fengmian/761119.jpg" alt="雀灵神域"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="雀灵神域" target="_blank" rel="bookmark" href="/look/761119/">雀灵神域</a>
+						</dd>
+						<dd class="v_desc">陈海明 漫客</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/761119/775272/" target="_blank" title="番外 这不科学">番外 这不科学</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="记忆之匙" target="_blank" href="/look/769687/"><img src="http://pic.guoman8.com/fengmian/769687.jpg" alt="记忆之匙"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="记忆之匙" target="_blank" rel="bookmark" href="/look/769687/">记忆之匙</a>
+						</dd>
+						<dd class="v_desc">梦之旅人 漫客</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/769687/775271/" target="_blank" title="第6话">第6话</a></span></dd>
+					</dl>	
+			</div>
+		</div>
+		<div class="box_fd"></div>
+	</div>
+	<div class="sbox explore_side">
+		<div class="sbox_hd">
+			<h3 class="sbox_title">知音漫客漫画排行</h3>
+			<div class="sbox_hd_expand">
+				<a class="expand_more" target="_blank" href="/zazhi/0w1p/">更多<span class="char">&gt;&gt;</span></a>
+			</div>
+		</div>
+		<div class="sbox_bd">
+			<div class="explore_main_p">
+				<div class="link_list">
+				<ul>
+						<li>
+							<i class="ico_play_s_p"></i>
+							<a title="偷星九月天" target="_blank" rel="bookmark" href="/look/725709/">偷星九月天</a>
+							<a href="/look/725709/775301/" target="_blank" title="偷星九月天429">第429话 预告</a>
+						</li>
+						<li>
+							<i class="ico_play_s_p"></i>
+							<a title="斗罗大陆" target="_blank" rel="bookmark" href="/look/718694/">斗罗大陆</a>
+							<a href="/look/718694/775258/" target="_blank" title="斗罗大陆107">第107话 预告</a>
+						</li>
+						<li>
+							<i class="ico_play_s_p"></i>
+							<a title="知音漫客" target="_blank" rel="bookmark" href="/look/747906/">知音漫客</a>
+							<a href="/look/747906/775259/" target="_blank" title="知音漫客292">第292期 预告</a>
+						</li>
+						<li>
+							<i class="ico_play_s_p"></i>
+							<a title="斗破苍穹" target="_blank" rel="bookmark" href="/look/720481/">斗破苍穹</a>
+							<a href="/look/720481/775085/" target="_blank" title="斗破苍穹71">第71话 决赛</a>
+						</li>
+						<li>
+							<i class="ico_play_s_p"></i>
+							<a title="暗夜协奏曲" target="_blank" rel="bookmark" href="/look/727183/">暗夜协奏曲</a>
+							<a href="/look/727183/750666/" target="_blank" title="暗夜协奏曲140">第140话</a>
+						</li>
+						<li>
+							<i class="ico_play_s_p"></i>
+							<a title="星海镖师" target="_blank" rel="bookmark" href="/look/733568/">星海镖师</a>
+							<a href="/look/733568/775101/" target="_blank" title="星海镖师114">第114话 三大家族的反击</a>
+						</li>
+						<li>
+							<i class="ico_play_s_p"></i>
+							<a title="九九八十一" target="_blank" rel="bookmark" href="/look/728208/">九九八十一</a>
+							<a href="/look/728208/775087/" target="_blank" title="九九八十一53">第53话 哥哥和妹妹</a>
+						</li>
+						<li>
+							<i class="ico_play_s_p"></i>
+							<a title="龙族" target="_blank" rel="bookmark" href="/look/727184/">龙族</a>
+							<a href="/look/727184/775248/" target="_blank" title="龙族29">第二部第29话 预告</a>
+						</li>
+						<li>
+							<i class="ico_play_s_p"></i>
+							<a title="神精榜" target="_blank" rel="bookmark" href="/look/735651/">神精榜</a>
+							<a href="/look/735651/775083/" target="_blank" title="神精榜223">第223话 潜伏的代价</a>
+						</li>
+						<li>
+							<i class="ico_play_s_p"></i>
+							<a title="打工吧，天师！" target="_blank" rel="bookmark" href="/look/731612/">打工吧，天师！</a>
+							<a href="/look/731612/754202/" target="_blank" title="打工吧，天师！43">第43话完结</a>
+						</li>
+						<li>
+							<i class="ico_play_s_p"></i>
+							<a title="super少女" target="_blank" rel="bookmark" href="/look/738666/">super少女</a>
+							<a href="/look/738666/772508/" target="_blank" title="super少女番外 百">番外 百合的约会</a>
+						</li>
+						<li>
+							<i class="ico_play_s_p"></i>
+							<a title="绯色安娜" target="_blank" rel="bookmark" href="/look/749670/">绯色安娜</a>
+							<a href="/look/749670/768388/" target="_blank" title="绯色安娜70">第70话</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="sbox_fd"></div>
+	</div>
+</div>	
+<div class="row_wrap cf" role="main">
+	<div class="box china_box">
+		<div class="box_hd">
+			<h2 class="box_title">飒漫画</h2>
+			<div class="box_hd_expand">
+				<span class="expand_main"></span>
+				<a class="expand_more" target="_blank" href="/zazhi/1w1p/">更多<span class="char">&gt;&gt;</span></a>
+			</div>
+			<span class="box_hd_doll"></span>
+		</div>
+		<div class="box_bd">
+			<div class="v_cont cf">
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="穿越西元3000后" target="_blank" href="/look/734520/"><img src="http://pic.guoman8.com/fengmian/734520.jpg" alt="穿越西元3000后"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="穿越西元3000后" target="_blank" rel="bookmark" href="/look/734520/">穿越西元3000后</a>
+						</dd>
+						<dd class="v_desc">小小作文 飒漫画</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/734520/774656/" target="_blank" title="第69话 夜访者">第69话 夜访者</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="飒漫画" target="_blank" href="/look/747579/"><img src="http://pic.guoman8.com/fengmian/747579.jpg" alt="飒漫画"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="飒漫画" target="_blank" rel="bookmark" href="/look/747579/">飒漫画</a>
+						</dd>
+						<dd class="v_desc">飒漫画</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/747579/775005/" target="_blank" title="第135期 预告">第135期 预告</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="校园爆笑大王" target="_blank" href="/look/738850/"><img src="http://pic.guoman8.com/fengmian/738850.jpg" alt="校园爆笑大王"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="校园爆笑大王" target="_blank" rel="bookmark" href="/look/738850/">校园爆笑大王</a>
+						</dd>
+						<dd class="v_desc">寺鸣 飒漫画</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/738850/774995/" target="_blank" title="第135期 预告">第135期 预告</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="神探肖羽" target="_blank" href="/look/770463/"><img src="http://pic.guoman8.com/fengmian/770463.jpg" alt="神探肖羽"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="神探肖羽" target="_blank" rel="bookmark" href="/look/770463/">神探肖羽</a>
+						</dd>
+						<dd class="v_desc">龙德红鸾 飒漫画</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/770463/774996/" target="_blank" title="第15话 预告">第15话 预告</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="诺亚之蝶" target="_blank" href="/look/735217/"><img src="http://pic.guoman8.com/fengmian/735217.jpg" alt="诺亚之蝶"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="诺亚之蝶" target="_blank" rel="bookmark" href="/look/735217/">诺亚之蝶</a>
+						</dd>
+						<dd class="v_desc">飒漫画 傅伯涛</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/735217/774997/" target="_blank" title="第190话 预告">第190话 预告</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="萌三国" target="_blank" href="/look/738946/"><img src="http://pic.guoman8.com/fengmian/738946.jpg" alt="萌三国"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="萌三国" target="_blank" rel="bookmark" href="/look/738946/">萌三国</a>
+						</dd>
+						<dd class="v_desc">飒舞天霁策划组 飒漫画</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/738946/774998/" target="_blank" title="第135期 预告">第135期 预告</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="心与爱丽丝" target="_blank" href="/look/767647/"><img src="http://pic.guoman8.com/fengmian/767647.jpg" alt="心与爱丽丝"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="心与爱丽丝" target="_blank" rel="bookmark" href="/look/767647/">心与爱丽丝</a>
+						</dd>
+						<dd class="v_desc">番长 飒漫画</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/767647/774999/" target="_blank" title="第18话 预告">第18话 预告</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="拜托了愚者" target="_blank" href="/look/746817/"><img src="http://pic.guoman8.com/fengmian/746817.jpg" alt="拜托了愚者"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="拜托了愚者" target="_blank" rel="bookmark" href="/look/746817/">拜托了愚者</a>
+						</dd>
+						<dd class="v_desc">夕度罗 飒漫画</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/746817/775000/" target="_blank" title="第65话 预告">第65话 预告</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="加油大魔王千年之章" target="_blank" href="/look/737103/"><img src="http://pic.guoman8.com/fengmian/737103.jpg" alt="加油大魔王千年之章"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="加油大魔王千年之章" target="_blank" rel="bookmark" href="/look/737103/">加油大魔王千年之章</a>
+						</dd>
+						<dd class="v_desc">飒漫画 咕啾组</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/737103/775001/" target="_blank" title="第84话 预告">第84话 预告</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="骑士幻想夜" target="_blank" href="/look/755694/"><img src="http://pic.guoman8.com/fengmian/755694.jpg" alt="骑士幻想夜"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="骑士幻想夜" target="_blank" rel="bookmark" href="/look/755694/">骑士幻想夜</a>
+						</dd>
+						<dd class="v_desc">森罗Jusaka  飒漫画</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/755694/775002/" target="_blank" title="第39话 预告">第39话 预告</a></span></dd>
+					</dl>	
+			</div>
+		</div>
+		<div class="box_fd"></div>
+	</div>
+	<div class="sbox explore_side">
+		<div class="sbox_hd">
+			<h3 class="sbox_title">飒漫画排行</h3>
+			<div class="sbox_hd_expand">
+				<a class="expand_more" target="_blank" href="/zazhi/1w1p/">更多<span class="char">&gt;&gt;</span></a>
+			</div>
+		</div>
+		<div class="sbox_bd">
+			<div class="explore_main_p">
+				<div class="link_list">
+				<ul>
+						<li>
+							<i class="ico_play_s_p"></i>
+							<a title="穿越西元3000后" target="_blank" rel="bookmark" href="/look/734520/">穿越西元3000后</a>
+							<a href="/look/734520/774656/" target="_blank" title="穿越西元3000后69">第69话 夜访者</a>
+						</li>
+						<li>
+							<i class="ico_play_s_p"></i>
+							<a title="美型妖精大混战" target="_blank" rel="bookmark" href="/look/733569/">美型妖精大混战</a>
+							<a href="/look/733569/774663/" target="_blank" title="美型妖精大混战133">第133话 来龙去脉</a>
+						</li>
+						<li>
+							<i class="ico_play_s_p"></i>
+							<a title="谜之魔盒" target="_blank" rel="bookmark" href="/look/739938/">谜之魔盒</a>
+							<a href="/look/739938/740038/" target="_blank" title="谜之魔盒100">第100话</a>
+						</li>
+						<li>
+							<i class="ico_play_s_p"></i>
+							<a title="加油大魔王千年之章" target="_blank" rel="bookmark" href="/look/737103/">加油大魔王千年之章</a>
+							<a href="/look/737103/775001/" target="_blank" title="加油大魔王千年之章84">第84话 预告</a>
+						</li>
+						<li>
+							<i class="ico_play_s_p"></i>
+							<a title="三眼哮天录" target="_blank" rel="bookmark" href="/look/734545/">三眼哮天录</a>
+							<a href="/look/734545/775011/" target="_blank" title="三眼哮天录117">第117话 预告</a>
+						</li>
+						<li>
+							<i class="ico_play_s_p"></i>
+							<a title="飒漫画" target="_blank" rel="bookmark" href="/look/747579/">飒漫画</a>
+							<a href="/look/747579/775005/" target="_blank" title="飒漫画135">第135期 预告</a>
+						</li>
+						<li>
+							<i class="ico_play_s_p"></i>
+							<a title="加油大魔王" target="_blank" rel="bookmark" href="/look/745314/">加油大魔王</a>
+							<a href="/look/745314/745426/" target="_blank" title="加油大魔王2">番外篇2</a>
+						</li>
+						<li>
+							<i class="ico_play_s_p"></i>
+							<a title="极夜永生" target="_blank" rel="bookmark" href="/look/749037/">极夜永生</a>
+							<a href="/look/749037/749072/" target="_blank" title="极夜永生35">第35话</a>
+						</li>
+						<li>
+							<i class="ico_play_s_p"></i>
+							<a title="诺亚之蝶" target="_blank" rel="bookmark" href="/look/735217/">诺亚之蝶</a>
+							<a href="/look/735217/774997/" target="_blank" title="诺亚之蝶190">第190话 预告</a>
+						</li>
+						<li>
+							<i class="ico_play_s_p"></i>
+							<a title="考试王" target="_blank" rel="bookmark" href="/look/738222/">考试王</a>
+							<a href="/look/738222/770698/" target="_blank" title="考试王83">第83话 我的同学不可能这么可爱</a>
+						</li>
+						<li>
+							<i class="ico_play_s_p"></i>
+							<a title="血族维他命" target="_blank" rel="bookmark" href="/look/737525/">血族维他命</a>
+							<a href="/look/737525/753442/" target="_blank" title="血族维他命52">第52话</a>
+						</li>
+						<li>
+							<i class="ico_play_s_p"></i>
+							<a title="谜之魔盒美国之旅" target="_blank" rel="bookmark" href="/look/737129/">谜之魔盒美国之旅</a>
+							<a href="/look/737129/760621/" target="_blank" title="谜之魔盒美国之旅大结局：">大结局：笼中的身影</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="sbox_fd"></div>
+	</div>
+</div>		
+<div class="adw2 cf">
+	<div id="J_ads468281" class="adpic1"></div>
+	<div id="J_ads468284" class="adpic2"></div>
+</div>	
+<div class="row_wrap cf" role="main">
+	<div class="box west_box">
+		<div class="box_hd">
+			<h2 class="box_title">漫画世界</h2>
+			<div class="box_hd_expand">
+				<span class="expand_main"></span>
+				<a class="expand_more" target="_blank" href="/zazhi/2w1p/">更多<span class="char">&gt;&gt;</span></a>
+			</div>
+			<span class="box_hd_doll"></span>
+		</div>
+		<div class="box_bd">
+			<div class="v_cont cf">
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="漫画世界全本" target="_blank" href="/look/756431/"><img src="http://pic.guoman8.com/fengmian/756431.jpg" alt="漫画世界全本"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="漫画世界全本" target="_blank" rel="bookmark" href="/look/756431/">漫画世界全本</a>
+						</dd>
+						<dd class="v_desc">漫画世界</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/756431/775263/" target="_blank" title="14年03期 预告">14年03期 预告</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="大话降龙" target="_blank" href="/look/742323/"><img src="http://pic.guoman8.com/fengmian/742323.jpg" alt="大话降龙"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="大话降龙" target="_blank" rel="bookmark" href="/look/742323/">大话降龙</a>
+						</dd>
+						<dd class="v_desc">奥东x兰兰 漫画世界</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/742323/775300/" target="_blank" title="第94话 预告">第94话 预告</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="勇者传" target="_blank" href="/look/743810/"><img src="http://pic.guoman8.com/fengmian/743810.jpg" alt="勇者传"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="勇者传" target="_blank" rel="bookmark" href="/look/743810/">勇者传</a>
+						</dd>
+						<dd class="v_desc">易飘扬 漫画世界</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/743810/775299/" target="_blank" title="第81话 预告">第81话 预告</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="最武道" target="_blank" href="/look/766383/"><img src="http://pic.guoman8.com/fengmian/766383.jpg" alt="最武道"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="最武道" target="_blank" rel="bookmark" href="/look/766383/">最武道</a>
+						</dd>
+						<dd class="v_desc">韩琰 漫画世界</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/766383/775298/" target="_blank" title="第12话 预告">第12话 预告</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="秀逗高校" target="_blank" href="/look/751878/"><img src="http://pic.guoman8.com/fengmian/751878.jpg" alt="秀逗高校"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="秀逗高校" target="_blank" rel="bookmark" href="/look/751878/">秀逗高校</a>
+						</dd>
+						<dd class="v_desc">张家辉 漫画世界</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/751878/775297/" target="_blank" title="14年03期  预告">14年03期  预告</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="爆笑校园" target="_blank" href="/look/749861/"><img src="http://pic.guoman8.com/fengmian/749861.jpg" alt="爆笑校园"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="爆笑校园" target="_blank" rel="bookmark" href="/look/749861/">爆笑校园</a>
+						</dd>
+						<dd class="v_desc">朱斌  漫画世界</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/749861/775296/" target="_blank" title="第14年 第3期  预告">第14年 第3期  预告</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="绝对灵盗" target="_blank" href="/look/757765/"><img src="http://pic.guoman8.com/fengmian/757765.jpg" alt="绝对灵盗"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="绝对灵盗" target="_blank" rel="bookmark" href="/look/757765/">绝对灵盗</a>
+						</dd>
+						<dd class="v_desc">曾健游 漫画世界</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/757765/775294/" target="_blank" title="第17话 预告">第17话 预告</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="驱魔手表" target="_blank" href="/look/766385/"><img src="http://pic.guoman8.com/fengmian/766385.jpg" alt="驱魔手表"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="驱魔手表" target="_blank" rel="bookmark" href="/look/766385/">驱魔手表</a>
+						</dd>
+						<dd class="v_desc">酷迷客 漫画世界</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/766385/775293/" target="_blank" title="第10话 预告">第10话 预告</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="超智能乒乓" target="_blank" href="/look/748776/"><img src="http://pic.guoman8.com/fengmian/748776.jpg" alt="超智能乒乓"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="超智能乒乓" target="_blank" rel="bookmark" href="/look/748776/">超智能乒乓</a>
+						</dd>
+						<dd class="v_desc">尹虎 漫画世界</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/748776/775292/" target="_blank" title="第115话 预告">第115话 预告</a></span></dd>
+					</dl>	
+					<dl class="v">
+						<dt class="v_pic">
+							<a title="兔子帮" target="_blank" href="/look/742615/"><img src="http://pic.guoman8.com/fengmian/742615.jpg" alt="兔子帮"></a>
+						</dt>
+						<dd class="v_name">
+							<a title="兔子帮" target="_blank" rel="bookmark" href="/look/742615/">兔子帮</a>
+						</dd>
+						<dd class="v_desc">十九番 漫画世界</dd>
+						<dd class="v_latest"><span><a class="White" href="/look/742615/775276/" target="_blank" title="第211话 预告">第211话 预告</a></span></dd>
+					</dl>	
+			</div>
+		</div>
+		<div class="box_fd"></div>
+	</div>
+	<div class="sbox explore_side">
+		<div class="sbox_hd">
+			<h3 class="sbox_title">漫画世界排行</h3>
+			<div class="sbox_hd_expand">
+				<a class="expand_more" target="_blank" href="/zazhi/2w1p/">更多<span class="char">&gt;&gt;</span></a>
+			</div>
+		</div>
+		<div class="sbox_bd">
+			<div class="explore_main_p">
+				<div class="link_list">
+				<ul>
+						<li>
+							<i class="ico_play_s_p"></i>
+							<a title="手机少年" target="_blank" rel="bookmark" href="/look/742599/">手机少年</a>
+							<a href="/look/742599/775262/" target="_blank" title="手机少年207">第207话 预告</a>
+						</li>
+						<li>
+							<i class="ico_play_s_p"></i>
+							<a title="兔子帮" target="_blank" rel="bookmark" href="/look/742615/">兔子帮</a>
+							<a href="/look/742615/775276/" target="_blank" title="兔子帮211">第211话 预告</a>
+						</li>
+						<li>
+							<i class="ico_play_s_p"></i>
+							<a title="大话降龙" target="_blank" rel="bookmark" href="/look/742323/">大话降龙</a>
+							<a href="/look/742323/775300/" target="_blank" title="大话降龙94">第94话 预告</a>
+						</li>
+						<li>
+							<i class="ico_play_s_p"></i>
+							<a title="血族BLOODLINE" target="_blank" rel="bookmark" href="/look/737472/">血族BLOODLINE</a>
+							<a href="/look/737472/775261/" target="_blank" title="血族BLOODLINE71">第71话 预告</a>
+						</li>
+						<li>
+							<i class="ico_play_s_p"></i>
+							<a title="抽筋神探" target="_blank" rel="bookmark" href="/look/742312/">抽筋神探</a>
+							<a href="/look/742312/775110/" target="_blank" title="抽筋神探130">第130话 情敌多了一个</a>
+						</li>
+						<li>
+							<i class="ico_play_s_p"></i>
+							<a title="超智能乒乓" target="_blank" rel="bookmark" href="/look/748776/">超智能乒乓</a>
+							<a href="/look/748776/775292/" target="_blank" title="超智能乒乓115">第115话 预告</a>
+						</li>
+						<li>
+							<i class="ico_play_s_p"></i>
+							<a title="片玉" target="_blank" rel="bookmark" href="/look/743808/">片玉</a>
+							<a href="/look/743808/761549/" target="_blank" title="片玉30">第30话</a>
+						</li>
+						<li>
+							<i class="ico_play_s_p"></i>
+							<a title="金属狂热团" target="_blank" rel="bookmark" href="/look/746471/">金属狂热团</a>
+							<a href="/look/746471/755355/" target="_blank" title="金属狂热团55">第55话</a>
+						</li>
+						<li>
+							<i class="ico_play_s_p"></i>
+							<a title="灵魂攻略" target="_blank" rel="bookmark" href="/look/744002/">灵魂攻略</a>
+							<a href="/look/744002/763768/" target="_blank" title="灵魂攻略89">第89话 大结局</a>
+						</li>
+						<li>
+							<i class="ico_play_s_p"></i>
+							<a title="勇者传" target="_blank" rel="bookmark" href="/look/743810/">勇者传</a>
+							<a href="/look/743810/775299/" target="_blank" title="勇者传81">第81话 预告</a>
+						</li>
+						<li>
+							<i class="ico_play_s_p"></i>
+							<a title="爆笑校园" target="_blank" rel="bookmark" href="/look/749861/">爆笑校园</a>
+							<a href="/look/749861/775296/" target="_blank" title="爆笑校园143">第14年 第3期  预告</a>
+						</li>
+						<li>
+							<i class="ico_play_s_p"></i>
+							<a title="血族bloodline番茄家园篇" target="_blank" rel="bookmark" href="/look/743977/">血族bloodline番茄家园篇</a>
+							<a href="/look/743977/754455/" target="_blank" title="血族bloodline番茄家园篇19">第19话</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="sbox_fd"></div>
+	</div>
+</div>	
+<div id="J_ads468289" class="adw1"></div>
+﻿
+<div role="link" class="fbox">
+	<div class="flinks">
+		<h4 class="fbox_title">友情链接</h4>
+		<div id="J_flinks" class="flinks_main">
+			<div class="flinks_cont"> 
+           <a href="http://www.guoman8.com/" target="_blank" title="">国漫吧</a>
+           <a href="http://www.guoman8.com/look/762848/" target="_blank" title="">莽荒纪漫画</a>
+           <a href="http://www.guoman8.com/look/741093/" target="_blank" title="">妃夕妍雪</a>
+           <a href="http://www.douluodalu123.com/" target="_blank" title="">绝世唐门</a>
+           <a href="http://donghua.7755.com" target="_blank" title="">日本动画片排行</a>
+           <a href="http://www.huore8.com" target="_blank" title="">好看的动漫</a>
+           <a href="http://www.52tian.net/" target="_blank" title="">动画片大全</a>
+           <a href="http://www.9lala.com" target="_blank" title="">在线漫画</a>
+           <a href="http://flash.17173.com/" target="_blank" title="">17173小游戏</a>
+           <a href="http://www.xindm.cn" target="_blank" title="">漫画网</a>
+           <a href="http://hua.5068.com/" target="_blank" title="">社区游戏</a>
+           <a href="http://www.kt51.com/" target="_blank" title="">动画片大全</a>
+           <a href="http://www.douluodalu.com.cn/" target="_blank" title="">斗罗大陆漫画</a>
+           <a href="http://www.36dm.com/" target="_blank" title="">简单动漫</a>
+           <a href="http://www.zei6.com/" target="_blank" title="">邪恶漫画</a>
+           <a href="http://www.073.cc/" target="_blank" title="">漫画网</a>
+           <a href="http://www.vkedm.cn" target="_blank" title="">动画片大全</a>
+           <a href="http://www.gy007.com/" target="_blank" title="">国语动漫</a>
+           <a href="http://www.dmnico.cn/" target="_blank" title="">后宫动漫</a>
+           <a href="http://manhua.7755.com/" target="_blank" title="">漫画在线看</a>
+           <a href="http://www.yatu.tv" target="_blank" title="">日本动漫</a>
+           <a href="http://www.dj527.com/" target="_blank" title="">dj网站</a>
+           <a href="http://www.cxt8.com/" target="_blank" title="">有声小说</a>
+           <a href="http://www.hk3318.net" target="_blank" title="">在线动漫</a>
+           <a href="http://www.naruto.hk/" target="_blank" title="">火影忍者中文网</a>
+           <a href="http://www.shaoyangbike.com" target="_blank" title="">校园狂少</a>
+           <a href="http://www.ysxsok.com" target="_blank" title="">有声小说打包下载</a>
+           <a href="http://mh.07073.com" target="_blank" title="">073漫画</a>
+           <a href="http://www.dtdown.net/" target="_blank" title="">软件下载</a>
+           <a href="http://www.qiyi81.com" target="_blank" title="">奇艺网</a>
+           <a href="http://www.chncomic.com/" target="_blank" title="">动漫网</a>
+           <a href="http://www.gmanhua.com/" target="_blank" title="">手机漫画</a>
+           <a href="http://www.973.com/" target="_blank" title="">973小游戏</a>
+           <a href="http://www.456.org" target="_blank" title="">456小游戏</a>
+           <a href="http://www.guoman8.com/look/734520/" target="_blank" title="">穿越西元3000后漫画</a>
+           <a href="http://www.41717.net" target="_blank" title="">火影忍者中文网</a>
+           <a href="http://jjsg.37wan.com/" target="_blank" title="">街机三国</a>
+           <a href="http://www.xiaohei.com/" target="_blank" title="">7k7k小游戏</a>
+           <a href="http://www.58dm.com/" target="_blank" title="">58动漫网</a>
+           <a href="http://baoweiluobo.gamedog.cn/" target="_blank" title="">保卫萝卜</a>
+           <a href="http://www.manhua8.net/" target="_blank" title="">斗罗大陆漫画</a>
+           <a href="http://www.fumanhua.com/" target="_blank" title="">耽美漫画</a>
+           <a href="http://www.haimoo.com" target="_blank" title="">秋色之空</a>
+           <a href="http://www.guofenchaxun.com/" target="_blank" title="">苹果序列号查询</a>
+           <a href="http://www.guoman8.com/xinshangjia/" target="_blank" title="">最新国漫</a>
+           <a href="http://manhua.52pk.com" target="_blank" title="">在线漫画</a>
+    </div>
+		</div>
+	</div>
+</div>
+﻿
+<div role="contentinfo" class="footer_wrap">
+    <div class="footer_inner">
+        <a title="国漫吧" class="ft_logo" href="/" rel="nofollow" target="_blank">国漫吧</a>
+        <div class="ft_remark">
+            <div class="ft_link">
+                本站所有漫画均来源于网络，漫画的版权归原漫画作者及发行商所有。如有侵犯，请联系我们删除。
+                <script src="http://s4.cnzz.com/stat.php?id=4811456&web_id=4811456" language="JavaScript"></script><span id="sqyl"></span>
+            </div>
+            <div class="ft_icp">
+			快捷索引：<a title="穿越西元3000后" target="_blank" href="/look/734520/">穿越西元3000后</a><a title="绝世唐门漫画" target="_blank" href="/look/749489/">绝世唐门漫画</a><a title="血族禁域" target="_blank" href="/look/766050/">血族禁域</a><a title="美型妖精大混战" target="_blank" href="/look/733569/">美型妖精大混战</a><a title="斗破苍穹漫画" target="_blank" href="/look/720481/">斗破苍穹漫画</a><a title="斗罗大陆漫画" target="_blank" href="/look/718694/">斗罗大陆漫画</a><a target="_blank" href="/look/747579/">飒漫画</a><a title="知音漫客" target="_blank" href="/look/738768/">知音漫客</a><a title="妃夕妍雪" target="_blank" href="/look/741093/">妃夕妍雪</a><a title="天降贤淑男" target="_blank" href="/look/750813/">天降贤淑男</a>
+			</div>
+            <div class="ft_copyright">联系：guoman8#sina.com 国漫吧 Copyright&#169;2008-2013 Inc. All Rights Reserved  <a href="/sitemap/index.html">sitemap.html</a> - <a href="/sitemap/sitemap.xml">sitemap.xml</a></div>
+        </div>
+    </div>
+</div>
+<script src="/scripts/baidushare1.js?v=3"></script>
+<script type="text/javascript" src="/scripts/jquery-1.js"></script>
+<script type="text/javascript" src="/scripts/piccommon.js?v=2"></script>		
+<script type="text/javascript" src="/scripts/history2.js"></script>
+<script type="text/javascript" src="/scripts/shoucang.js"></script>
+</body></html>

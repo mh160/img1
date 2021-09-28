@@ -1,0 +1,106 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <style type="text/css">
+        * {
+            margin: 0px;
+            padding: 0px;
+        }
+        body {
+            background-color: #f8f8f8;
+        }
+        #container {
+            width: 794px;
+            margin: 0 auto;
+            position: relative;
+            padding-top: 100px;
+        }
+        .error {
+            font-size: 100px;
+            line-height: 100px;
+            color: #444;
+            font-family: "Microsoft Yahei", sans-serif;
+            font-weight: bold;
+            text-align: center;
+            margin-bottom: 100px;
+        }
+        #box {
+            border: 1px solid #d0d0d0;
+            background-color: #e5e5e5;
+            -webkit-border-radius: 8px;
+            border-radius: 8px;
+            -webkit-box-shadow: inset 0px 1px 1px 0px #dcdcdc, 0px 1px 0px #fff;
+            box-shadow: inset 0px 1px 1px 0px #dcdcdc, 0px 1px 0px #fff;
+            padding: 3px;
+            margin-bottom: 100px;
+        }
+        #inner-box {
+            border: 1px solid #cecece;
+            background-color: #fff;
+            -webkit-border-radius: 5px;
+            border-radius: 5px;
+            padding: 20px;
+            -webkit-box-shadow: 0px 1px 1px 0px #dcdcdc;
+            box-shadow: 0px 1px 1px 0px #dcdcdc;
+        }
+        #mc-logo {
+            width: 100;
+            height: 120px;
+            padding: 0 10px;
+            margin: 0 10px;
+            background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAMAAAAOusbgAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDowNkRCRDM3OTAzNTkxMUU0QkI1NkRDMDcwQTVBNUJENCIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDowNkRCRDM3QTAzNTkxMUU0QkI1NkRDMDcwQTVBNUJENCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjA2REJEMzc3MDM1OTExRTRCQjU2REMwNzBBNUE1QkQ0IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjA2REJEMzc4MDM1OTExRTRCQjU2REMwNzBBNUE1QkQ0Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+xUItrQAAAGBQTFRFx8fHXVxe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);
+            background-repeat: no-repeat;
+            float: left;
+        }
+        #divider {
+            width: 1px;
+            height: 120px;
+            background: #e5e5e5;
+            float: left;
+            margin-right: 20px;
+        }
+        h2 {
+            font-size: 17px;
+            line-height: 17px;
+            color: #616161;
+            font-family: "Microsoft Yahei", sans-serif;
+            font-weight: bold;
+            margin: 0;
+        }
+        #box ul {
+            list-style: disc;
+            list-style-position: inside;
+            margin-top: 10px;
+            padding: 0;
+        }
+        #box ul li {
+            font-size: 14px;
+            line-height: 24px;
+            font-family: "HelveticaNeue", Helvetica, sans-serif;
+            color: #636363;
+        }
+        #box ul li a {
+            color: #636363;
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <div class="error">502</div>
+        <div id="box">
+            <div id="inner-box" class="clearfix">
+                <div id="mc-logo"></div>
+                <div id="divider"></div>
+                <h2>该资源不存在</h2>
+                <ul>
+                    <li>这是由TAN14返回的临时错误页面</li>
+                    <li>如果你是网站的管理员，请点击<a href="http://home.maichuang.net/">这里</a>了解更多信息</li>
+                    <li>TAN14是一个专注企业级云分发的服务平台，为企业提供高效稳定的CDN解决方案</li>
+                    <li><a href="http://home.maichuang.net/">点击这里了解TAN14</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
